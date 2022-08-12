@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/diego/Documents/GitHub/proteus/public/data/../../application/bin/ssv.py", line 11, in <module>
+    import MySQLdb # para o MySQL
+ModuleNotFoundError: No module named 'MySQLdb'

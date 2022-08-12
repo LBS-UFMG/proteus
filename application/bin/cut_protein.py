@@ -48,7 +48,7 @@ for c in coord:
 			if atom[1] not in residues:
 				residues.append(atom[1])
 
-print len(residues)
+print(len(residues))
 
 for atom in atoms:
 	if atom[1] in residues:

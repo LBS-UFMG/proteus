@@ -30,9 +30,13 @@ cff = 13
 # -----------------------------------------------------------------
 server = '150.164.203.92'
 #server = '150.164.203.94'
-user = 'root'
-key = 'bio1nf0rule5*'
 database = 'signatures'
+
+key = [i.strip().split('=')[1].replace('"','') for i in open('../../.env').readlines() if i.strip().split('=')[0]=='key'][0]  # SENHA
+
+user = [i.strip().split('=')[1].replace('"','') for i in open('../../.env').readlines() if i.strip().split('=')[0]=='user'][0]  #NOME DO USUÁRIO 
+
+
 # -----------------------------------------------------------------
 con = MySQLdb.connect(server, user, key, port=3306)
 con.select_db(database)
@@ -492,7 +496,7 @@ def calculate_clash(project,atoms_test,mutation):
 
 	PDB1 = PDBParser().get_structure('PDB1',project+"/origin.pdb")
 
-	print mutation
+	print(mutation)
 
 	# Comparing atoms
 	for ref_chain in PDB1[0]:
@@ -512,14 +516,14 @@ def calculate_clash(project,atoms_test,mutation):
 							dist = a1 - a2
 
 							if dist < 2:
-								print "Residue origin clash: "
-								print ref_res.id[1]
-								print "Atom clash (A1): "
-								print a1.get_name()
-								print "Atom clash (A2): "
-								print a2.get_name()
-								print "Distance: "
-								print dist
+								print("Residue origin clash: ")
+								print(ref_res.id[1])
+								print("Atom clash (A1): ")
+								print(a1.get_name())
+								print("Atom clash (A2): ")
+								print(a2.get_name())
+								print("Distance: ")
+								print(dist)
 								return 'Yes'
 
 	return 'No'
@@ -601,11 +605,11 @@ for pdb_name in pdbs:
 		valid = False
 
 	#print mutations
-	print len(valid_mutations)
+	print(len(valid_mutations))
 	
 	if len(valid_mutations) != 0:
 
-		print valid_mutations
+		print(valid_mutations)
 
 		#total_valid_mutations += len(valid_mutations)
 		
