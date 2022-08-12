@@ -1,0 +1,11673 @@
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A129R_L133R
+Residue origin clash: 
+121
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CD
+Distance: 
+1.97777616467
+A129R_L133W
+Residue origin clash: 
+117
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.28890959656
+A129N_L133Y
+Residue origin clash: 
+121
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+OH
+Distance: 
+1.98050092233
+A129N_L133T
+Residue origin clash: 
+121
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+ND2
+Distance: 
+1.39136973923
+A129D_L133N
+Residue origin clash: 
+117
+Atom clash (A1): 
+OG
+Atom clash (A2): 
+ND2
+Distance: 
+1.42261841822
+A129D_L133W
+Residue origin clash: 
+102
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CH2
+Distance: 
+1.92218837844
+A129Q_L133R
+Residue origin clash: 
+121
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE2
+Distance: 
+1.98205311407
+A129Q_L133Y
+Residue origin clash: 
+121
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CD
+Distance: 
+1.71224260865
+A129E_L133Y
+Residue origin clash: 
+117
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.83594426515
+A129H_L133S
+Residue origin clash: 
+121
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CD2
+Distance: 
+1.90255045564
+A129H_L133N
+Residue origin clash: 
+121
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+ND1
+Distance: 
+1.89619603379
+A129H_L133Y
+Residue origin clash: 
+121
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.88337764236
+A129H_L133W
+Residue origin clash: 
+102
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CZ3
+Distance: 
+1.84212664414
+A129K_L133N
+Residue origin clash: 
+117
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE
+Distance: 
+1.80540499301
+A129K_L133H
+Residue origin clash: 
+121
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CD
+Distance: 
+1.7386050136
+A129S_L133D
+A129S_L133H
+A129S_L133K
+A129S_L133Y
+Residue origin clash: 
+117
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.9736939219
+A129T_L133H
+A129W_L133S
+Residue origin clash: 
+121
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CD2
+Distance: 
+1.47061532084
+A129W_L133T
+Residue origin clash: 
+153
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.58206241107
+A129Y_L133T
+23
+['A129R/L133R', 'A129R/L133W', 'A129N/L133Y', 'A129N/L133T', 'A129D/L133N', 'A129D/L133W', 'A129Q/L133R', 'A129Q/L133Y', 'A129E/L133Y', 'A129H/L133S', 'A129H/L133N', 'A129H/L133Y', 'A129H/L133W', 'A129K/L133N', 'A129K/L133H', 'A129S/L133D', 'A129S/L133H', 'A129S/L133K', 'A129S/L133Y', 'A129T/L133H', 'A129W/L133S', 'A129W/L133T', 'A129Y/L133T']
+A130R_R154W
+Residue origin clash: 
+127
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CZ3
+Distance: 
+1.26097182721
+1
+['A130R/R154W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A146R_I150W
+Residue origin clash: 
+133
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH2
+Distance: 
+1.97279294771
+A146N_I150Y
+Residue origin clash: 
+139
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+ND2
+Distance: 
+1.7733800379
+A146N_I150T
+Residue origin clash: 
+139
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+ND2
+Distance: 
+1.95135284471
+A146N_I150E
+Residue origin clash: 
+138
+Atom clash (A1): 
+CZ3
+Atom clash (A2): 
+ND2
+Distance: 
+1.66265956528
+A146D_I150N
+A146D_I150W
+Residue origin clash: 
+130
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.692102048
+A146Q_I150R
+Residue origin clash: 
+133
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ
+Distance: 
+1.85742330333
+A146Q_I150Y
+Residue origin clash: 
+133
+Atom clash (A1): 
+C
+Atom clash (A2): 
+OH
+Distance: 
+1.71776400289
+A146Q_I150H
+Residue origin clash: 
+133
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND1
+Distance: 
+1.9018709296
+A146E_I150Y
+Residue origin clash: 
+138
+Atom clash (A1): 
+C
+Atom clash (A2): 
+OE1
+Distance: 
+1.89593773393
+A146H_I150S
+Residue origin clash: 
+139
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD2
+Distance: 
+1.77129874368
+A146H_I150N
+Residue origin clash: 
+139
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD2
+Distance: 
+1.7018352245
+A146H_I150Y
+Residue origin clash: 
+133
+Atom clash (A1): 
+C
+Atom clash (A2): 
+OH
+Distance: 
+1.94401348406
+A146H_I150K
+Residue origin clash: 
+133
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.51397327672
+A146H_I150W
+Residue origin clash: 
+130
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE3
+Distance: 
+1.88476175742
+A146K_I150N
+Residue origin clash: 
+138
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+CD
+Distance: 
+1.83506429666
+A146K_I150H
+Residue origin clash: 
+139
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NZ
+Distance: 
+1.82141296868
+A146S_I150H
+A146S_I150K
+A146S_I150Y
+A146W_I150S
+Residue origin clash: 
+134
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ2
+Distance: 
+1.95247930204
+A146W_I150W
+Residue origin clash: 
+129
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.69842966191
+A146W_I150T
+Residue origin clash: 
+139
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD2
+Distance: 
+1.48684525628
+A146W_I150Y
+Residue origin clash: 
+133
+Atom clash (A1): 
+C
+Atom clash (A2): 
+OH
+Distance: 
+1.30769570635
+A146Y_I150T
+Residue origin clash: 
+139
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD2
+Distance: 
+1.55172467083
+25
+['A146R/I150W', 'A146N/I150Y', 'A146N/I150T', 'A146N/I150E', 'A146D/I150N', 'A146D/I150W', 'A146Q/I150R', 'A146Q/I150Y', 'A146Q/I150H', 'A146E/I150Y', 'A146H/I150S', 'A146H/I150N', 'A146H/I150Y', 'A146H/I150K', 'A146H/I150W', 'A146K/I150N', 'A146K/I150H', 'A146S/I150H', 'A146S/I150K', 'A146S/I150Y', 'A146W/I150S', 'A146W/I150W', 'A146W/I150T', 'A146W/I150Y', 'A146Y/I150T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+D127R_V131R
+D127R_V131N
+D127R_V131W
+Residue origin clash: 
+195
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE3
+Distance: 
+1.19999908684
+D127N_V131Y
+Residue origin clash: 
+266
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.75715621923
+D127N_V131T
+V131W
+Residue origin clash: 
+127
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.36899204578
+D127Q_V131R
+D127Q_V131Y
+D127E_V131Y
+D127H_V131S
+D127H_V131N
+D127H_V131Y
+D127H_V131W
+D127K_V131N
+Residue origin clash: 
+195
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD
+Distance: 
+1.99960316893
+D127K_V131H
+D127S_V131H
+D127S_V131K
+D127S_V131W
+Residue origin clash: 
+195
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE1
+Distance: 
+1.77810271317
+D127T_V131H
+D127T_V131R
+D127W_V131S
+D127W_V131W
+D127W_V131Q
+D127W_V131T
+D127Y_V131T
+D127Y_V131Y
+26
+['D127R/V131R', 'D127R/V131N', 'D127R/V131W', 'D127N/V131Y', 'D127N/V131T', 'V131W', 'D127Q/V131R', 'D127Q/V131Y', 'D127E/V131Y', 'D127H/V131S', 'D127H/V131N', 'D127H/V131Y', 'D127H/V131W', 'D127K/V131N', 'D127K/V131H', 'D127S/V131H', 'D127S/V131K', 'D127S/V131W', 'D127T/V131H', 'D127T/V131R', 'D127W/V131S', 'D127W/V131W', 'D127W/V131Q', 'D127W/V131T', 'D127Y/V131T', 'D127Y/V131Y']
+0
+R95N_L121N
+Residue origin clash: 
+91
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+ND2
+Distance: 
+1.46546268816
+1
+['R95N/L121N']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+N116R
+Residue origin clash: 
+128
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.62763509477
+N116H_E128H
+2
+['N116R', 'N116H/E128H']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+G77Q_V103R
+Residue origin clash: 
+108
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CD
+Distance: 
+1.90705539773
+1
+['G77Q/V103R']
+0
+0
+0
+0
+0
+0
+0
+A42K_A49R
+Residue origin clash: 
+33
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NZ
+Distance: 
+1.80358629756
+A42K_A49K
+Residue origin clash: 
+33
+Atom clash (A1): 
+N
+Atom clash (A2): 
+NZ
+Distance: 
+1.40606992356
+2
+['A42K/A49R', 'A42K/A49K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L118R_Q122W
+Residue origin clash: 
+83
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE
+Distance: 
+1.72362234837
+L118N_Q122Y
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CE2
+Distance: 
+1.33741784257
+L118N_Q122T
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+OD1
+Distance: 
+1.81016525121
+L118D_Q122W
+Residue origin clash: 
+86
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ2
+Distance: 
+1.30689833318
+L118Q_Q122R
+Residue origin clash: 
+87
+Atom clash (A1): 
+N
+Atom clash (A2): 
+NH2
+Distance: 
+1.91229033861
+L118Q_Q122Y
+Residue origin clash: 
+87
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ
+Distance: 
+1.7578104201
+L118E_Q122Y
+Residue origin clash: 
+87
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE1
+Distance: 
+1.7198487392
+L118H_Q122S
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+ND1
+Distance: 
+1.59864484366
+L118H_Q122N
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CE1
+Distance: 
+1.81815262728
+L118H_Q122Y
+Residue origin clash: 
+87
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ
+Distance: 
+1.61240245241
+L118H_Q122W
+Residue origin clash: 
+86
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ2
+Distance: 
+0.989178210401
+L118K_Q122N
+Residue origin clash: 
+87
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.42119455169
+L118K_Q122H
+Residue origin clash: 
+83
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE
+Distance: 
+1.83905596184
+L118S_Q122H
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+NE2
+Distance: 
+1.53254157611
+L118S_Q122K
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CE
+Distance: 
+1.54401882653
+L118W_Q122S
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CD1
+Distance: 
+1.50892667599
+L118W_Q122W
+Residue origin clash: 
+86
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ2
+Distance: 
+1.06011722926
+L118W_Q122T
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CD1
+Distance: 
+1.19049317636
+L118W_Q122Y
+Residue origin clash: 
+87
+Atom clash (A1): 
+N
+Atom clash (A2): 
+OH
+Distance: 
+1.69106530519
+L118Y_Q122T
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CD1
+Distance: 
+1.48477903144
+20
+['L118R/Q122W', 'L118N/Q122Y', 'L118N/Q122T', 'L118D/Q122W', 'L118Q/Q122R', 'L118Q/Q122Y', 'L118E/Q122Y', 'L118H/Q122S', 'L118H/Q122N', 'L118H/Q122Y', 'L118H/Q122W', 'L118K/Q122N', 'L118K/Q122H', 'L118S/Q122H', 'L118S/Q122K', 'L118W/Q122S', 'L118W/Q122W', 'L118W/Q122T', 'L118W/Q122Y', 'L118Y/Q122T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+I100R_F104R
+Residue origin clash: 
+3
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NH1
+Distance: 
+1.81728222056
+I100R_F104H
+Residue origin clash: 
+71
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH1
+Distance: 
+1.97802365065
+I100R_F104W
+Residue origin clash: 
+71
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ2
+Distance: 
+1.92015664785
+I100N_F104Y
+Residue origin clash: 
+7
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.88440646966
+I100N_F104T
+I100N_F104E
+Residue origin clash: 
+74
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OE2
+Distance: 
+1.70155360504
+I100D_F104W
+Residue origin clash: 
+70
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ2
+Distance: 
+1.98768978145
+I100Q_F104R
+Residue origin clash: 
+71
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ
+Distance: 
+1.99581411067
+I100Q_F104Y
+Residue origin clash: 
+71
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+OH
+Distance: 
+1.34940302225
+I100Q_F104H
+Residue origin clash: 
+74
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NE2
+Distance: 
+1.71639622943
+I100E_F104Y
+Residue origin clash: 
+3
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+OE2
+Distance: 
+1.59824721603
+I100H_F104S
+I100H_F104N
+I100H_F104Y
+Residue origin clash: 
+71
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+OH
+Distance: 
+1.51883085902
+I100H_F104W
+Residue origin clash: 
+70
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ2
+Distance: 
+1.81449943317
+I100K_F104N
+Residue origin clash: 
+74
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.77351648706
+I100K_F104H
+Residue origin clash: 
+74
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.87291378854
+I100S_F104D
+I100S_F104H
+I100S_F104K
+I100S_F104Y
+Residue origin clash: 
+74
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.83256090628
+I100W_F104S
+Residue origin clash: 
+3
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.09507788374
+I100W_F104W
+Residue origin clash: 
+3
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.34206412647
+I100W_F104T
+Residue origin clash: 
+3
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE3
+Distance: 
+1.52325419672
+I100W_F104Y
+Residue origin clash: 
+3
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CH2
+Distance: 
+1.97946802269
+I100Y_F104T
+26
+['I100R/F104R', 'I100R/F104H', 'I100R/F104W', 'I100N/F104Y', 'I100N/F104T', 'I100N/F104E', 'I100D/F104W', 'I100Q/F104R', 'I100Q/F104Y', 'I100Q/F104H', 'I100E/F104Y', 'I100H/F104S', 'I100H/F104N', 'I100H/F104Y', 'I100H/F104W', 'I100K/F104N', 'I100K/F104H', 'I100S/F104D', 'I100S/F104H', 'I100S/F104K', 'I100S/F104Y', 'I100W/F104S', 'I100W/F104W', 'I100W/F104T', 'I100W/F104Y', 'I100Y/F104T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+M106R_V111T
+1
+['M106R/V111T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L121R_A129Y
+Residue origin clash: 
+118
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NH1
+Distance: 
+1.83659283029
+L121H_A129R
+Residue origin clash: 
+91
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NE2
+Distance: 
+1.93556969282
+2
+['L121R/A129Y', 'L121H/A129R']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+N116R_M120R
+Residue origin clash: 
+232
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH1
+Distance: 
+1.96411078676
+N116R_M120N
+N116R_M120W
+Residue origin clash: 
+119
+Atom clash (A1): 
+NE
+Atom clash (A2): 
+CZ3
+Distance: 
+1.93737468695
+M120Y
+Residue origin clash: 
+116
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.50409362921
+M120T
+Residue origin clash: 
+116
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.6307454283
+M120E
+Residue origin clash: 
+116
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.58343892368
+N116D_M120W
+Residue origin clash: 
+119
+Atom clash (A1): 
+NH1
+Atom clash (A2): 
+OD1
+Distance: 
+1.4597065784
+N116Q_M120R
+N116Q_M120Y
+N116E_M120Y
+Residue origin clash: 
+132
+Atom clash (A1): 
+ND2
+Atom clash (A2): 
+OE2
+Distance: 
+1.9748499168
+N116H_M120S
+N116H_M120N
+N116H_M120Y
+N116H_M120W
+Residue origin clash: 
+128
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.9035304901
+N116K_M120N
+Residue origin clash: 
+119
+Atom clash (A1): 
+CZ
+Atom clash (A2): 
+CE
+Distance: 
+1.75309242572
+N116K_M120H
+N116S_M120H
+N116S_M120K
+N116S_M120W
+Residue origin clash: 
+119
+Atom clash (A1): 
+NH1
+Atom clash (A2): 
+NE1
+Distance: 
+1.94855754423
+N116S_M120Y
+N116T_M120R
+Residue origin clash: 
+132
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NH2
+Distance: 
+1.96524371207
+N116W_M120S
+Residue origin clash: 
+132
+Atom clash (A1): 
+ND2
+Atom clash (A2): 
+CE3
+Distance: 
+1.52975776072
+N116W_M120W
+Residue origin clash: 
+132
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE3
+Distance: 
+1.6452021989
+N116W_M120T
+Residue origin clash: 
+132
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE3
+Distance: 
+1.77671494002
+N116Y_M120T
+N116Y_M120Y
+26
+['N116R/M120R', 'N116R/M120N', 'N116R/M120W', 'M120Y', 'M120T', 'M120E', 'N116D/M120W', 'N116Q/M120R', 'N116Q/M120Y', 'N116E/M120Y', 'N116H/M120S', 'N116H/M120N', 'N116H/M120Y', 'N116H/M120W', 'N116K/M120N', 'N116K/M120H', 'N116S/M120H', 'N116S/M120K', 'N116S/M120W', 'N116S/M120Y', 'N116T/M120R', 'N116W/M120S', 'N116W/M120W', 'N116W/M120T', 'N116Y/M120T', 'N116Y/M120Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+P143R_K147N
+P143S_K147D
+P143T_K147S
+P143T_K147R
+Residue origin clash: 
+139
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CG2
+Distance: 
+1.77392353164
+4
+['P143R/K147N', 'P143S/K147D', 'P143T/K147S', 'P143T/K147R']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+I17D_I27R
+Residue origin clash: 
+56
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH2
+Distance: 
+1.62794794644
+1
+['I17D/I27R']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+M6W_N101K
+Residue origin clash: 
+7
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CZ3
+Distance: 
+1.81606342691
+1
+['M6W/N101K']
+0
+0
+V87H_L91K
+Residue origin clash: 
+99
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE1
+Distance: 
+1.57371690178
+V87Y_L91Q
+Residue origin clash: 
+121
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+OH
+Distance: 
+1.99618271392
+V87Y_L91K
+Residue origin clash: 
+121
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+OH
+Distance: 
+1.84141018135
+3
+['V87H/L91K', 'V87Y/L91Q', 'V87Y/L91K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+S117R_L121R
+Residue origin clash: 
+133
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NE
+Distance: 
+1.38931048754
+S117R_L121H
+Residue origin clash: 
+133
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CD
+Distance: 
+1.5923720375
+S117R_L121W
+Residue origin clash: 
+129
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.35992645052
+S117N_L121Y
+Residue origin clash: 
+114
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.770007432
+S117N_L121T
+Residue origin clash: 
+133
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+ND2
+Distance: 
+1.53072290843
+S117N_L121E
+S117D_L121W
+Residue origin clash: 
+153
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ2
+Distance: 
+1.82554398992
+S117Q_L121R
+Residue origin clash: 
+133
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE2
+Distance: 
+1.75160225168
+S117Q_L121Y
+Residue origin clash: 
+133
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE2
+Distance: 
+1.81157276996
+S117Q_L121H
+Residue origin clash: 
+129
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.89817464122
+S117E_L121Y
+Residue origin clash: 
+133
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+OE1
+Distance: 
+1.79662195862
+S117H_L121S
+S117H_L121N
+Residue origin clash: 
+133
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+ND1
+Distance: 
+1.87959014107
+S117H_L121Y
+Residue origin clash: 
+133
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE1
+Distance: 
+1.21083829498
+S117H_L121W
+Residue origin clash: 
+133
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE1
+Distance: 
+1.10553417953
+S117K_L121N
+Residue origin clash: 
+129
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.86139312296
+S117K_L121H
+Residue origin clash: 
+133
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CD
+Distance: 
+1.68280490425
+L121H
+Residue origin clash: 
+117
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.57706978552
+L121K
+Residue origin clash: 
+117
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.77971199431
+L121Y
+Residue origin clash: 
+117
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.58210242322
+S117W_L121S
+Residue origin clash: 
+102
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CH2
+Distance: 
+1.64959138263
+S117W_L121W
+Residue origin clash: 
+102
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CH2
+Distance: 
+1.97511699211
+S117W_L121T
+S117W_L121Y
+Residue origin clash: 
+118
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CZ3
+Distance: 
+1.92221237379
+S117Y_L121T
+25
+['S117R/L121R', 'S117R/L121H', 'S117R/L121W', 'S117N/L121Y', 'S117N/L121T', 'S117N/L121E', 'S117D/L121W', 'S117Q/L121R', 'S117Q/L121Y', 'S117Q/L121H', 'S117E/L121Y', 'S117H/L121S', 'S117H/L121N', 'S117H/L121Y', 'S117H/L121W', 'S117K/L121N', 'S117K/L121H', 'L121H', 'L121K', 'L121Y', 'S117W/L121S', 'S117W/L121W', 'S117W/L121T', 'S117W/L121Y', 'S117Y/L121T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A73R_G77R
+A73R_G77H
+Residue origin clash: 
+80
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+CD2
+Distance: 
+1.64523939736
+A73R_G77N
+Residue origin clash: 
+80
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+ND2
+Distance: 
+1.68055223587
+A73R_G77W
+Residue origin clash: 
+80
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+CE3
+Distance: 
+1.82708485073
+A73N_G77Y
+Residue origin clash: 
+70
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.6571797888
+A73N_G77T
+Residue origin clash: 
+108
+Atom clash (A1): 
+OE2
+Atom clash (A2): 
+CG2
+Distance: 
+1.93437048462
+A73N_G77E
+Residue origin clash: 
+277
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.96306837655
+A73D_G77N
+Residue origin clash: 
+80
+Atom clash (A1): 
+CZ
+Atom clash (A2): 
+ND2
+Distance: 
+1.59136858044
+A73D_G77W
+Residue origin clash: 
+108
+Atom clash (A1): 
+CD
+Atom clash (A2): 
+CE3
+Distance: 
+1.7943274017
+A73Q_G77R
+A73Q_G77Y
+Residue origin clash: 
+277
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD1
+Distance: 
+1.98845664436
+A73Q_G77H
+Residue origin clash: 
+76
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+NE2
+Distance: 
+1.64240073295
+A73E_G77Y
+Residue origin clash: 
+277
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD1
+Distance: 
+1.83283151137
+A73H_G77S
+A73H_G77N
+Residue origin clash: 
+80
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+OD1
+Distance: 
+1.93499227252
+A73H_G77Y
+A73H_G77W
+Residue origin clash: 
+108
+Atom clash (A1): 
+OE2
+Atom clash (A2): 
+CE3
+Distance: 
+1.98489268437
+A73K_G77N
+Residue origin clash: 
+277
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE
+Distance: 
+1.55342232743
+A73K_G77H
+Residue origin clash: 
+277
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.54041722012
+A73S_G77D
+Residue origin clash: 
+80
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+OD1
+Distance: 
+1.98263532153
+A73S_G77H
+A73S_G77K
+A73W_G77S
+A73W_G77W
+Residue origin clash: 
+108
+Atom clash (A1): 
+OE2
+Atom clash (A2): 
+CE3
+Distance: 
+1.62582669265
+A73W_G77T
+Residue origin clash: 
+108
+Atom clash (A1): 
+OE2
+Atom clash (A2): 
+CG2
+Distance: 
+1.90462489819
+A73W_G77Y
+Residue origin clash: 
+277
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD1
+Distance: 
+1.96033801833
+A73Y_G77T
+Residue origin clash: 
+108
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CG2
+Distance: 
+1.94488634046
+27
+['A73R/G77R', 'A73R/G77H', 'A73R/G77N', 'A73R/G77W', 'A73N/G77Y', 'A73N/G77T', 'A73N/G77E', 'A73D/G77N', 'A73D/G77W', 'A73Q/G77R', 'A73Q/G77Y', 'A73Q/G77H', 'A73E/G77Y', 'A73H/G77S', 'A73H/G77N', 'A73H/G77Y', 'A73H/G77W', 'A73K/G77N', 'A73K/G77H', 'A73S/G77D', 'A73S/G77H', 'A73S/G77K', 'A73W/G77S', 'A73W/G77W', 'A73W/G77T', 'A73W/G77Y', 'A73Y/G77T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K83N_V87W
+Residue origin clash: 
+122
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.71765874239
+1
+['K83N/V87W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A146K_F153R
+Residue origin clash: 
+133
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CZ
+Distance: 
+1.59074891281
+A146K_F153K
+Residue origin clash: 
+138
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CD
+Distance: 
+1.93237181616
+2
+['A146K/F153R', 'A146K/F153K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+R96K_V103K
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CD
+Distance: 
+1.90000805031
+R96K_V103Q
+Residue origin clash: 
+78
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+NE2
+Distance: 
+1.83118045268
+2
+['R96K/V103K', 'R96K/V103Q']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L84Q_Y88R
+Residue origin clash: 
+78
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NH1
+Distance: 
+1.82462791707
+L84Q
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CD2
+Distance: 
+1.73471236132
+L84S
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CD2
+Distance: 
+1.11357909024
+L84T_Y88R
+Residue origin clash: 
+78
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH2
+Distance: 
+1.78343288743
+L84T_Y88H
+Residue origin clash: 
+99
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NE2
+Distance: 
+1.8140281161
+L84W_Y88S
+Residue origin clash: 
+77
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ3
+Distance: 
+1.83997391058
+6
+['L84Q/Y88R', 'L84Q', 'L84S', 'L84T/Y88R', 'L84T/Y88H', 'L84W/Y88S']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L121R_A130N
+Residue origin clash: 
+133
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+NH2
+Distance: 
+1.40055673379
+1
+['L121R/A130N']
+0
+0
+0
+0
+0
+0
+0
+W126R_A130N
+Residue origin clash: 
+154
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CD
+Distance: 
+1.94050581194
+W126K_A130H
+Residue origin clash: 
+154
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CE1
+Distance: 
+1.90085131061
+W126S_A130D
+Residue origin clash: 
+154
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OD2
+Distance: 
+1.86943991832
+W126T_A130S
+4
+['W126R/A130N', 'W126K/A130H', 'W126S/A130D', 'W126T/A130S']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+E62R_L66H
+Residue origin clash: 
+50
+Atom clash (A1): 
+N
+Atom clash (A2): 
+NH1
+Distance: 
+1.28599237047
+E62R_L66W
+Residue origin clash: 
+46
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+NH2
+Distance: 
+1.86285465828
+E62N_L66Y
+Residue origin clash: 
+50
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+OH
+Distance: 
+1.98873690633
+E62N_L66T
+E62N_L66E
+Residue origin clash: 
+50
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND2
+Distance: 
+1.89143148701
+E62D_L66W
+Residue origin clash: 
+206
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.70942652659
+E62Q_L66R
+Residue origin clash: 
+50
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NE2
+Distance: 
+1.85959322838
+E62Q_L66Y
+Residue origin clash: 
+50
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE2
+Distance: 
+1.9031658612
+E62Q_L66H
+Residue origin clash: 
+206
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.75306631681
+L66Y
+Residue origin clash: 
+50
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+OH
+Distance: 
+1.16048123542
+E62H_L66S
+Residue origin clash: 
+50
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND1
+Distance: 
+1.84353690692
+E62H_L66N
+Residue origin clash: 
+50
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE1
+Distance: 
+1.58614153152
+E62H_L66Y
+Residue origin clash: 
+50
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NE2
+Distance: 
+1.52420976344
+E62H_L66W
+Residue origin clash: 
+31
+Atom clash (A1): 
+NE2
+Atom clash (A2): 
+CZ3
+Distance: 
+1.88600548305
+E62K_L66N
+Residue origin clash: 
+50
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+NZ
+Distance: 
+0.982706495745
+E62K_L66H
+Residue origin clash: 
+50
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE
+Distance: 
+1.1997115173
+E62S_L66H
+Residue origin clash: 
+50
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+NE2
+Distance: 
+1.99215522456
+E62S_L66K
+Residue origin clash: 
+50
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE
+Distance: 
+1.8559080211
+E62W_L66S
+Residue origin clash: 
+50
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD1
+Distance: 
+1.84000023384
+E62W_L66W
+Residue origin clash: 
+49
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ2
+Distance: 
+1.82729428481
+E62W_L66T
+Residue origin clash: 
+50
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD1
+Distance: 
+1.38286018014
+E62W_L66Y
+Residue origin clash: 
+58
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CD2
+Distance: 
+1.84546740597
+E62Y_L66T
+Residue origin clash: 
+50
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE1
+Distance: 
+1.94212367158
+23
+['E62R/L66H', 'E62R/L66W', 'E62N/L66Y', 'E62N/L66T', 'E62N/L66E', 'E62D/L66W', 'E62Q/L66R', 'E62Q/L66Y', 'E62Q/L66H', 'L66Y', 'E62H/L66S', 'E62H/L66N', 'E62H/L66Y', 'E62H/L66W', 'E62K/L66N', 'E62K/L66H', 'E62S/L66H', 'E62S/L66K', 'E62W/L66S', 'E62W/L66W', 'E62W/L66T', 'E62W/L66Y', 'E62Y/L66T']
+0
+0
+0
+0
+C97R_N101R
+Residue origin clash: 
+6
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH2
+Distance: 
+1.04310843835
+C97R_N101H
+Residue origin clash: 
+3
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH1
+Distance: 
+1.84413234851
+C97R_N101W
+Residue origin clash: 
+3
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CH2
+Distance: 
+1.87328652408
+C97N_N101Y
+Residue origin clash: 
+6
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CZ
+Distance: 
+1.99338425227
+C97N_N101T
+Residue origin clash: 
+6
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+OD1
+Distance: 
+1.95527353052
+C97D_N101W
+Residue origin clash: 
+3
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+OD1
+Distance: 
+1.77438034217
+C97Q_N101R
+Residue origin clash: 
+6
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH2
+Distance: 
+1.61228701661
+C97Q_N101Y
+Residue origin clash: 
+6
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OH
+Distance: 
+1.58719793106
+C97E_N101Y
+Residue origin clash: 
+3
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.75445229049
+C97H_N101S
+Residue origin clash: 
+6
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CE1
+Distance: 
+1.76342860147
+C97H
+Residue origin clash: 
+6
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CD2
+Distance: 
+1.86997314529
+C97H_N101Y
+Residue origin clash: 
+6
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OH
+Distance: 
+1.73121165161
+C97H_N101W
+Residue origin clash: 
+6
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ2
+Distance: 
+1.66947538834
+C97K
+Residue origin clash: 
+3
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NZ
+Distance: 
+1.95888096546
+C97K_N101H
+Residue origin clash: 
+3
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.82118531078
+C97S_N101D
+Residue origin clash: 
+6
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+OD2
+Distance: 
+1.67079405721
+C97S_N101H
+Residue origin clash: 
+6
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE1
+Distance: 
+1.83107271411
+C97S_N101K
+Residue origin clash: 
+6
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NZ
+Distance: 
+1.79368467097
+C97S_N101Y
+Residue origin clash: 
+3
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.93278172042
+C97T_N101H
+C97W_N101S
+Residue origin clash: 
+6
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE2
+Distance: 
+1.93774362013
+C97W_N101W
+Residue origin clash: 
+6
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+NE1
+Distance: 
+1.90230975724
+C97W_N101Q
+Residue origin clash: 
+3
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE3
+Distance: 
+1.951370244
+C97W_N101T
+Residue origin clash: 
+6
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE2
+Distance: 
+1.5804071375
+C97Y_N101T
+Residue origin clash: 
+6
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OH
+Distance: 
+1.89612220206
+25
+['C97R/N101R', 'C97R/N101H', 'C97R/N101W', 'C97N/N101Y', 'C97N/N101T', 'C97D/N101W', 'C97Q/N101R', 'C97Q/N101Y', 'C97E/N101Y', 'C97H/N101S', 'C97H', 'C97H/N101Y', 'C97H/N101W', 'C97K', 'C97K/N101H', 'C97S/N101D', 'C97S/N101H', 'C97S/N101K', 'C97S/N101Y', 'C97T/N101H', 'C97W/N101S', 'C97W/N101W', 'C97W/N101Q', 'C97W/N101T', 'C97Y/N101T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+V149W
+Residue origin clash: 
+10
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CH2
+Distance: 
+1.42114269143
+R145N_V149Y
+Residue origin clash: 
+217
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.8860413205
+R145N_V149T
+R145D_V149W
+Residue origin clash: 
+98
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.60939524182
+R145Q_V149R
+Residue origin clash: 
+101
+Atom clash (A1): 
+ND2
+Atom clash (A2): 
+NE
+Distance: 
+1.46534560889
+R145Q_V149Y
+Residue origin clash: 
+101
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CZ
+Distance: 
+1.72295412384
+R145E_V149Y
+Residue origin clash: 
+217
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE2
+Distance: 
+1.89689001967
+R145H_V149S
+R145H_V149N
+R145H_V149Y
+Residue origin clash: 
+101
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE1
+Distance: 
+1.89753429569
+R145H_V149K
+Residue origin clash: 
+101
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE
+Distance: 
+1.52183119319
+R145H_V149W
+Residue origin clash: 
+98
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.59249132305
+R145K_V149N
+Residue origin clash: 
+10
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE
+Distance: 
+1.6937413166
+R145K_V149H
+Residue origin clash: 
+101
+Atom clash (A1): 
+ND2
+Atom clash (A2): 
+NE2
+Distance: 
+1.80371516122
+R145S_V149H
+Residue origin clash: 
+217
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.69862719128
+R145S_V149K
+Residue origin clash: 
+101
+Atom clash (A1): 
+ND2
+Atom clash (A2): 
+CE
+Distance: 
+1.90778065564
+R145S_V149W
+Residue origin clash: 
+6
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CH2
+Distance: 
+1.90699276524
+R145S_V149Y
+R145W_V149S
+Residue origin clash: 
+105
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CH2
+Distance: 
+1.62431170485
+R145W_V149W
+Residue origin clash: 
+98
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.92650575213
+R145W_V149T
+Residue origin clash: 
+105
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+CZ3
+Distance: 
+1.81079182051
+R145W_V149Y
+Residue origin clash: 
+101
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CZ
+Distance: 
+1.94935019902
+R145Y_V149T
+Residue origin clash: 
+101
+Atom clash (A1): 
+ND2
+Atom clash (A2): 
+OH
+Distance: 
+1.68378889166
+23
+['V149W', 'R145N/V149Y', 'R145N/V149T', 'R145D/V149W', 'R145Q/V149R', 'R145Q/V149Y', 'R145E/V149Y', 'R145H/V149S', 'R145H/V149N', 'R145H/V149Y', 'R145H/V149K', 'R145H/V149W', 'R145K/V149N', 'R145K/V149H', 'R145S/V149H', 'R145S/V149K', 'R145S/V149W', 'R145S/V149Y', 'R145W/V149S', 'R145W/V149W', 'R145W/V149T', 'R145W/V149Y', 'R145Y/V149T']
+A41R_E45H
+A41R_E45W
+Residue origin clash: 
+34
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NH1
+Distance: 
+1.71514435453
+A41N_E45Y
+Residue origin clash: 
+34
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.67015372135
+A41N_E45T
+A41N
+Residue origin clash: 
+45
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.57225205523
+A41D_E45W
+A41Q_E45R
+A41Q_E45Y
+A41Q_E45H
+A41E_E45Y
+Residue origin clash: 
+36
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OE2
+Distance: 
+1.66121280793
+A41H_E45S
+A41H_E45N
+Residue origin clash: 
+34
+Atom clash (A1): 
+OG1
+Atom clash (A2): 
+NE2
+Distance: 
+1.62107691498
+A41H_E45Y
+A41H_E45W
+A41K_E45N
+A41K_E45H
+Residue origin clash: 
+34
+Atom clash (A1): 
+OG1
+Atom clash (A2): 
+NZ
+Distance: 
+1.43511342701
+A41S_E45H
+A41S_E45K
+Residue origin clash: 
+34
+Atom clash (A1): 
+OG1
+Atom clash (A2): 
+NZ
+Distance: 
+1.77509383812
+A41S_E45Y
+A41W_E45S
+Residue origin clash: 
+34
+Atom clash (A1): 
+OG1
+Atom clash (A2): 
+CE2
+Distance: 
+1.67648751626
+A41W_E45W
+Residue origin clash: 
+34
+Atom clash (A1): 
+OG1
+Atom clash (A2): 
+CE2
+Distance: 
+1.80035748435
+A41W_E45T
+Residue origin clash: 
+34
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.58687335495
+A41W_E45Y
+Residue origin clash: 
+34
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ2
+Distance: 
+1.96558941477
+A41Y_E45T
+Residue origin clash: 
+34
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE2
+Distance: 
+1.36460830654
+24
+['A41R/E45H', 'A41R/E45W', 'A41N/E45Y', 'A41N/E45T', 'A41N', 'A41D/E45W', 'A41Q/E45R', 'A41Q/E45Y', 'A41Q/E45H', 'A41E/E45Y', 'A41H/E45S', 'A41H/E45N', 'A41H/E45Y', 'A41H/E45W', 'A41K/E45N', 'A41K/E45H', 'A41S/E45H', 'A41S/E45K', 'A41S/E45Y', 'A41W/E45S', 'A41W/E45W', 'A41W/E45T', 'A41W/E45Y', 'A41Y/E45T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+V75R_L79W
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+CH2
+Distance: 
+1.5534666788
+V75N_L79Y
+V75N_L79T
+V75D_L79W
+Residue origin clash: 
+244
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.99796246962
+V75Q_L79R
+V75Q_L79Y
+V75E_L79Y
+V75H_L79S
+V75H_L79N
+V75H_L79Y
+V75H_L79W
+Residue origin clash: 
+244
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.97738173077
+V75K_L79N
+V75K_L79H
+V75S_L79H
+V75S_L79K
+V75W_L79S
+V75W_L79W
+Residue origin clash: 
+244
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.4372298938
+V75W_L79T
+V75W_L79Y
+V75Y_L79T
+20
+['V75R/L79W', 'V75N/L79Y', 'V75N/L79T', 'V75D/L79W', 'V75Q/L79R', 'V75Q/L79Y', 'V75E/L79Y', 'V75H/L79S', 'V75H/L79N', 'V75H/L79Y', 'V75H/L79W', 'V75K/L79N', 'V75K/L79H', 'V75S/L79H', 'V75S/L79K', 'V75W/L79S', 'V75W/L79W', 'V75W/L79T', 'V75W/L79Y', 'V75Y/L79T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A63R_F67H
+Residue origin clash: 
+28
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NE
+Distance: 
+1.85284511566
+A63R_F67N
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD
+Distance: 
+1.64914517176
+A63R_F67W
+Residue origin clash: 
+12
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH2
+Distance: 
+1.80512953948
+A63N_F67Y
+Residue origin clash: 
+29
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE2
+Distance: 
+1.81699931037
+A63N_F67T
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND2
+Distance: 
+1.41175175937
+A63N_F67E
+A63D_F67W
+Residue origin clash: 
+29
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE1
+Distance: 
+1.00982733462
+A63Q_F67R
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD
+Distance: 
+1.89521420972
+A63Q_F67Y
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD
+Distance: 
+1.90506240861
+A63E_F67Y
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD
+Distance: 
+1.45669679467
+A63H_F67S
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD2
+Distance: 
+1.99952180188
+A63H_F67N
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND1
+Distance: 
+1.91075977862
+A63H_F67Y
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND1
+Distance: 
+1.8432306705
+A63H_F67W
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND1
+Distance: 
+1.55131839991
+A63K_F67N
+Residue origin clash: 
+28
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CD
+Distance: 
+1.94052646058
+A63K_F67H
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD
+Distance: 
+1.8351368915
+A63S_F67H
+Residue origin clash: 
+29
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.82369123127
+A63S_F67K
+Residue origin clash: 
+29
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.24923390259
+A63S_F67Y
+Residue origin clash: 
+28
+Atom clash (A1): 
+C
+Atom clash (A2): 
+OH
+Distance: 
+1.62246694258
+A63W_F67S
+Residue origin clash: 
+13
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CH2
+Distance: 
+1.6667571602
+A63W_F67W
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD2
+Distance: 
+1.87376969053
+A63W_F67T
+Residue origin clash: 
+29
+Atom clash (A1): 
+N
+Atom clash (A2): 
+NE1
+Distance: 
+1.993880436
+A63W_F67Y
+Residue origin clash: 
+13
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD1
+Distance: 
+1.97722466743
+A63Y_F67T
+Residue origin clash: 
+29
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CE1
+Distance: 
+1.72467260353
+24
+['A63R/F67H', 'A63R/F67N', 'A63R/F67W', 'A63N/F67Y', 'A63N/F67T', 'A63N/F67E', 'A63D/F67W', 'A63Q/F67R', 'A63Q/F67Y', 'A63E/F67Y', 'A63H/F67S', 'A63H/F67N', 'A63H/F67Y', 'A63H/F67W', 'A63K/F67N', 'A63K/F67H', 'A63S/F67H', 'A63S/F67K', 'A63S/F67Y', 'A63W/F67S', 'A63W/F67W', 'A63W/F67T', 'A63W/F67Y', 'A63Y/F67T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A73H
+Residue origin clash: 
+80
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.69630213211
+A73K
+Residue origin clash: 
+80
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.72501728614
+2
+['A73H', 'A73K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A130R_A134R
+Residue origin clash: 
+154
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+NE
+Distance: 
+1.99415790977
+A130N_A134Y
+Residue origin clash: 
+127
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.84621829145
+A130D_A134W
+Residue origin clash: 
+139
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+CE3
+Distance: 
+1.59117037743
+A130E_A134Y
+Residue origin clash: 
+154
+Atom clash (A1): 
+NE
+Atom clash (A2): 
+OE1
+Distance: 
+1.76130470343
+A130H_A134S
+Residue origin clash: 
+150
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+ND1
+Distance: 
+1.63920397204
+A130H_A134W
+Residue origin clash: 
+139
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+CD2
+Distance: 
+1.90282529303
+A130K_A134N
+Residue origin clash: 
+150
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.35082943861
+A130K_A134H
+Residue origin clash: 
+150
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND1
+Distance: 
+1.9860229066
+A130S_A134H
+Residue origin clash: 
+229
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.74540845859
+A130S_A134K
+Residue origin clash: 
+229
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD
+Distance: 
+1.55901323994
+A130T_A134H
+Residue origin clash: 
+150
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+OG1
+Distance: 
+1.9069710538
+A130W_A134S
+Residue origin clash: 
+195
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE3
+Distance: 
+1.98837085042
+A130W_A134W
+Residue origin clash: 
+139
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE3
+Distance: 
+1.97406753789
+A130W_A134Q
+Residue origin clash: 
+150
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.48542467582
+A130Y_A134T
+Residue origin clash: 
+150
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CD1
+Distance: 
+1.91183611832
+15
+['A130R/A134R', 'A130N/A134Y', 'A130D/A134W', 'A130E/A134Y', 'A130H/A134S', 'A130H/A134W', 'A130K/A134N', 'A130K/A134H', 'A130S/A134H', 'A130S/A134K', 'A130T/A134H', 'A130W/A134S', 'A130W/A134W', 'A130W/A134Q', 'A130Y/A134T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+G77R_N81S
+Residue origin clash: 
+108
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CG
+Distance: 
+1.80691843849
+G77Y
+Residue origin clash: 
+81
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.77322545186
+2
+['G77R/N81S', 'G77Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+V94K_N101K
+Residue origin clash: 
+6
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NZ
+Distance: 
+1.92937050128
+1
+['V94K/N101K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+N40R_S44N
+N40R_S44W
+S44Y
+Residue origin clash: 
+40
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.60274018571
+3
+['N40R/S44N', 'N40R/S44W', 'S44Y']
+0
+0
+0
+0
+0
+0
+V149R_F153W
+Residue origin clash: 
+98
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CH2
+Distance: 
+1.88073090482
+V149N_F153Y
+V149N_F153T
+V149N_F153E
+Residue origin clash: 
+98
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OE2
+Distance: 
+1.94225828635
+V149D_F153W
+V149Q_F153R
+V149Q_F153Y
+Residue origin clash: 
+98
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE2
+Distance: 
+1.77273138936
+V149E_F153Y
+Residue origin clash: 
+98
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OH
+Distance: 
+1.81398110548
+V149H_F153S
+V149H_F153N
+V149H_F153Y
+Residue origin clash: 
+102
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE1
+Distance: 
+1.92346952736
+V149H_F153W
+Residue origin clash: 
+98
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE2
+Distance: 
+1.91607766175
+V149K_F153N
+Residue origin clash: 
+98
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE
+Distance: 
+1.58469117373
+V149K_F153H
+Residue origin clash: 
+98
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.78993554506
+V149S_F153H
+V149S_F153K
+V149S_F153Y
+Residue origin clash: 
+98
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OH
+Distance: 
+1.8664761475
+V149W_F153S
+Residue origin clash: 
+102
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CZ2
+Distance: 
+0.758663914635
+V149W_F153W
+Residue origin clash: 
+102
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CZ2
+Distance: 
+1.05834527831
+V149W_F153T
+Residue origin clash: 
+133
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CH2
+Distance: 
+1.93668986105
+V149W_F153Y
+Residue origin clash: 
+138
+Atom clash (A1): 
+CZ3
+Atom clash (A2): 
+CZ3
+Distance: 
+1.87944479387
+V149Y_F153T
+V149Y_F153Y
+Residue origin clash: 
+99
+Atom clash (A1): 
+N
+Atom clash (A2): 
+OH
+Distance: 
+1.99327094263
+23
+['V149R/F153W', 'V149N/F153Y', 'V149N/F153T', 'V149N/F153E', 'V149D/F153W', 'V149Q/F153R', 'V149Q/F153Y', 'V149E/F153Y', 'V149H/F153S', 'V149H/F153N', 'V149H/F153Y', 'V149H/F153W', 'V149K/F153N', 'V149K/F153H', 'V149S/F153H', 'V149S/F153K', 'V149S/F153Y', 'V149W/F153S', 'V149W/F153W', 'V149W/F153T', 'V149W/F153Y', 'V149Y/F153T', 'V149Y/F153Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K147R_T151R
+K147R_T151N
+Residue origin clash: 
+261
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH1
+Distance: 
+1.16219387254
+K147R_T151W
+Residue origin clash: 
+261
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH1
+Distance: 
+1.81954855563
+K147N_T151Y
+Residue origin clash: 
+144
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.61724240595
+K147N
+Residue origin clash: 
+151
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.49222359606
+K147N_T151E
+Residue origin clash: 
+261
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.96518752695
+K147D_T151N
+Residue origin clash: 
+154
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+ND2
+Distance: 
+1.11297663961
+K147D_T151W
+K147Q_T151R
+K147Q_T151Y
+K147Q_T151H
+Residue origin clash: 
+139
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+NE2
+Distance: 
+1.62556764411
+K147E_T151Y
+K147H_T151S
+K147H_T151N
+Residue origin clash: 
+261
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.40346292023
+K147H_T151Y
+K147H_T151W
+16
+['K147R/T151R', 'K147R/T151N', 'K147R/T151W', 'K147N/T151Y', 'K147N', 'K147N/T151E', 'K147D/T151N', 'K147D/T151W', 'K147Q/T151R', 'K147Q/T151Y', 'K147Q/T151H', 'K147E/T151Y', 'K147H/T151S', 'K147H/T151N', 'K147H/T151Y', 'K147H/T151W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+V87E_A129K
+Residue origin clash: 
+118
+Atom clash (A1): 
+C
+Atom clash (A2): 
+OE2
+Distance: 
+1.92022028211
+1
+['V87E/A129K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+T151N_T155H
+1
+['T151N/T155H']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+R95K_M102K
+Residue origin clash: 
+153
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NZ
+Distance: 
+1.8041550092
+1
+['R95K/M102K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L39R_K43R
+L39R_K43H
+L39R_K43N
+L39R_K43W
+L39N_K43Y
+Residue origin clash: 
+332
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.76405418427
+L39D_K43W
+Residue origin clash: 
+55
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.68135233381
+L39Q_K43R
+L39Q_K43Y
+L39E_K43Y
+L39H_K43N
+L39H_K43W
+Residue origin clash: 
+55
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.49386694721
+L39K_K43N
+L39K_K43H
+L39S_K43D
+L39S_K43H
+L39S
+Residue origin clash: 
+43
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.59067020175
+L39S_K43W
+Residue origin clash: 
+17
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CH2
+Distance: 
+1.69734115229
+L39T_K43S
+L39T_K43Q
+L39T_K43H
+L39T_K43R
+L39W_K43S
+L39W_K43Y
+Residue origin clash: 
+40
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+CZ3
+Distance: 
+1.85198607143
+L39Y_K43T
+24
+['L39R/K43R', 'L39R/K43H', 'L39R/K43N', 'L39R/K43W', 'L39N/K43Y', 'L39D/K43W', 'L39Q/K43R', 'L39Q/K43Y', 'L39E/K43Y', 'L39H/K43N', 'L39H/K43W', 'L39K/K43N', 'L39K/K43H', 'L39S/K43D', 'L39S/K43H', 'L39S', 'L39S/K43W', 'L39T/K43S', 'L39T/K43Q', 'L39T/K43H', 'L39T/K43R', 'L39W/K43S', 'L39W/K43Y', 'L39Y/K43T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K147H
+Residue origin clash: 
+154
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.58778149648
+1
+['K147H']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L91E_R95E
+Residue origin clash: 
+153
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+OE1
+Distance: 
+1.87637164656
+L91E_R95Q
+L91H_R95W
+Residue origin clash: 
+87
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.56327589101
+3
+['L91E/R95E', 'L91E/R95Q', 'L91H/R95W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+T152R
+Residue origin clash: 
+148
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.31441716179
+1
+['T152R']
+0
+0
+0
+0
+0
+A63K_D70R
+Residue origin clash: 
+28
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CD
+Distance: 
+1.94181191949
+A63K_D70K
+Residue origin clash: 
+27
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NZ
+Distance: 
+1.34686790659
+2
+['A63K/D70R', 'A63K/D70K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+N144R
+Residue origin clash: 
+148
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.54950591448
+N144R_R148N
+Residue origin clash: 
+164
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NH2
+Distance: 
+1.978468937
+N144R_R148W
+Residue origin clash: 
+164
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NH2
+Distance: 
+1.98433601982
+R148Y
+Residue origin clash: 
+144
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.43820602812
+4
+['N144R', 'N144R/R148N', 'N144R/R148W', 'R148Y']
+0
+0
+0
+0
+0
+0
+0
+0
+K60R_E64N
+K60D_E64W
+Residue origin clash: 
+186
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ2
+Distance: 
+1.70398321703
+K60E_E64Y
+K60H_E64N
+4
+['K60R/E64N', 'K60D/E64W', 'K60E/E64Y', 'K60H/E64N']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L66R_D70R
+Residue origin clash: 
+31
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NH2
+Distance: 
+1.99620680424
+L66R_D70H
+Residue origin clash: 
+31
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NH2
+Distance: 
+1.75075385334
+L66R_D70W
+Residue origin clash: 
+31
+Atom clash (A1): 
+N
+Atom clash (A2): 
+NH1
+Distance: 
+1.91614506733
+L66N_D70Y
+Residue origin clash: 
+31
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OH
+Distance: 
+1.27296238637
+L66N_D70T
+Residue origin clash: 
+351
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CG2
+Distance: 
+1.98153888558
+L66N_D70E
+L66D_D70N
+Residue origin clash: 
+209
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.48010265204
+L66D_D70W
+Residue origin clash: 
+31
+Atom clash (A1): 
+ND1
+Atom clash (A2): 
+NE1
+Distance: 
+1.62065578186
+L66Q_D70R
+Residue origin clash: 
+31
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH1
+Distance: 
+1.1302492004
+L66Q_D70Y
+Residue origin clash: 
+31
+Atom clash (A1): 
+ND1
+Atom clash (A2): 
+CZ
+Distance: 
+1.45458254158
+L66E_D70Y
+Residue origin clash: 
+31
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+OH
+Distance: 
+1.23631858163
+L66H_D70S
+Residue origin clash: 
+31
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE2
+Distance: 
+1.41974229391
+L66H_D70N
+Residue origin clash: 
+31
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.61370052157
+L66H_D70Y
+Residue origin clash: 
+31
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NE2
+Distance: 
+1.45508746087
+L66H_D70W
+Residue origin clash: 
+31
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE1
+Distance: 
+1.77696039783
+L66K_D70N
+Residue origin clash: 
+31
+Atom clash (A1): 
+ND1
+Atom clash (A2): 
+NZ
+Distance: 
+1.50089237102
+L66K_D70H
+Residue origin clash: 
+31
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.8274110674
+L66S_D70H
+Residue origin clash: 
+31
+Atom clash (A1): 
+ND1
+Atom clash (A2): 
+CE1
+Distance: 
+1.95053127486
+L66S_D70K
+Residue origin clash: 
+31
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NZ
+Distance: 
+1.51939225926
+L66S_D70Y
+Residue origin clash: 
+31
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+OH
+Distance: 
+1.3273304053
+L66T_D70H
+Residue origin clash: 
+31
+Atom clash (A1): 
+ND1
+Atom clash (A2): 
+NE2
+Distance: 
+1.55501648708
+L66W_D70S
+Residue origin clash: 
+27
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.62581454263
+L66W_D70W
+Residue origin clash: 
+27
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.90997602165
+L66W_D70T
+Residue origin clash: 
+31
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CH2
+Distance: 
+1.68338482424
+L66Y_D70T
+Residue origin clash: 
+31
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+OH
+Distance: 
+1.89540877147
+25
+['L66R/D70R', 'L66R/D70H', 'L66R/D70W', 'L66N/D70Y', 'L66N/D70T', 'L66N/D70E', 'L66D/D70N', 'L66D/D70W', 'L66Q/D70R', 'L66Q/D70Y', 'L66E/D70Y', 'L66H/D70S', 'L66H/D70N', 'L66H/D70Y', 'L66H/D70W', 'L66K/D70N', 'L66K/D70H', 'L66S/D70H', 'L66S/D70K', 'L66S/D70Y', 'L66T/D70H', 'L66W/D70S', 'L66W/D70W', 'L66W/D70T', 'L66Y/D70T']
+0
+0
+0
+0
+0
+0
+L66K_A73R
+Residue origin clash: 
+31
+Atom clash (A1): 
+ND1
+Atom clash (A2): 
+CE
+Distance: 
+1.2211024
+L66K_A73K
+Residue origin clash: 
+180
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE
+Distance: 
+1.67897914412
+2
+['L66K/A73R', 'L66K/A73K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L84W_V103T
+Residue origin clash: 
+78
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.88714122566
+1
+['L84W/V103T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+T26K_L32Y
+Residue origin clash: 
+20
+Atom clash (A1): 
+OD2
+Atom clash (A2): 
+CE1
+Distance: 
+1.69637152652
+1
+['T26K/L32Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L39Q_L46R
+Residue origin clash: 
+17
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ
+Distance: 
+1.8819569229
+1
+['L39Q/L46R']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+E128R_N132R
+Residue origin clash: 
+120
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD
+Distance: 
+1.73941778142
+E128R_N132W
+Residue origin clash: 
+120
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+NH1
+Distance: 
+1.98286584177
+E128N_N132Y
+Residue origin clash: 
+120
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CD1
+Distance: 
+1.65474693037
+E128N_N132K
+Residue origin clash: 
+120
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+NZ
+Distance: 
+1.94258963053
+E128N_N132T
+E128D
+Residue origin clash: 
+120
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+OD2
+Distance: 
+1.38721675367
+E128D_N132W
+Residue origin clash: 
+232
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.61377995392
+E128Q_N132R
+Residue origin clash: 
+120
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD
+Distance: 
+1.93262860794
+E128Q_N132Y
+Residue origin clash: 
+120
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD2
+Distance: 
+1.67380679143
+9
+['E128R/N132R', 'E128R/N132W', 'E128N/N132Y', 'E128N/N132K', 'E128N/N132T', 'E128D', 'E128D/N132W', 'E128Q/N132R', 'E128Q/N132Y']
+0
+0
+0
+0
+0
+0
+V111R
+Residue origin clash: 
+102
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+NE
+Distance: 
+0.831211911055
+1
+['V111R']
+0
+0
+0
+0
+V87E_L121N
+1
+['V87E/L121N']
+0
+0
+0
+0
+0
+L46Q_I50Q
+Residue origin clash: 
+58
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+NE2
+Distance: 
+1.89109358757
+L46K_I50Q
+Residue origin clash: 
+54
+Atom clash (A1): 
+SG
+Atom clash (A2): 
+OE1
+Distance: 
+1.002101416
+L46W_I50R
+Residue origin clash: 
+54
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.23369054584
+3
+['L46Q/I50Q', 'L46K/I50Q', 'L46W/I50R']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+I58W_A63E
+Residue origin clash: 
+27
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CZ2
+Distance: 
+1.43648173051
+1
+['I58W/A63E']
+0
+0
+0
+0
+0
+0
+L7N_E11H
+1
+['L7N/E11H']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+V71R_V75R
+Residue origin clash: 
+3
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+NH2
+Distance: 
+1.40359332444
+V71R_V75N
+Residue origin clash: 
+239
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH2
+Distance: 
+1.8940486679
+V71R_V75W
+Residue origin clash: 
+100
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CZ3
+Distance: 
+1.04623450046
+V71N_V75Y
+Residue origin clash: 
+4
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+ND2
+Distance: 
+1.88373795114
+V71N_V75T
+V71D_V75W
+Residue origin clash: 
+88
+Atom clash (A1): 
+OH
+Atom clash (A2): 
+CZ3
+Distance: 
+1.34843583002
+V71Q_V75R
+Residue origin clash: 
+239
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH1
+Distance: 
+1.84532077636
+V71Q_V75Y
+Residue origin clash: 
+100
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.87731027098
+V71Q_V75H
+Residue origin clash: 
+100
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.94701644486
+V71E_V75Y
+Residue origin clash: 
+4
+Atom clash (A1): 
+CZ
+Atom clash (A2): 
+OE2
+Distance: 
+1.89213141725
+V71H_V75S
+V71H_V75N
+V71H_V75Y
+Residue origin clash: 
+100
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.27089318255
+V71H_V75W
+Residue origin clash: 
+88
+Atom clash (A1): 
+OH
+Atom clash (A2): 
+CZ3
+Distance: 
+1.66156092691
+V71K_V75N
+Residue origin clash: 
+100
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CE
+Distance: 
+1.94378138458
+V71K_V75H
+V71S_V75H
+V71S_V75K
+V71S_V75W
+Residue origin clash: 
+100
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CH2
+Distance: 
+1.76111327898
+V71T_V75R
+V71W_V75S
+Residue origin clash: 
+4
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+CE3
+Distance: 
+1.7833926673
+V71W_V75W
+Residue origin clash: 
+4
+Atom clash (A1): 
+CZ
+Atom clash (A2): 
+CE3
+Distance: 
+1.75610238697
+V71W_V75T
+V71W_V75Y
+V71Y_V75T
+25
+['V71R/V75R', 'V71R/V75N', 'V71R/V75W', 'V71N/V75Y', 'V71N/V75T', 'V71D/V75W', 'V71Q/V75R', 'V71Q/V75Y', 'V71Q/V75H', 'V71E/V75Y', 'V71H/V75S', 'V71H/V75N', 'V71H/V75Y', 'V71H/V75W', 'V71K/V75N', 'V71K/V75H', 'V71S/V75H', 'V71S/V75K', 'V71S/V75W', 'V71T/V75R', 'V71W/V75S', 'V71W/V75W', 'V71W/V75T', 'V71W/V75Y', 'V71Y/V75T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+I3R_L7N
+Residue origin clash: 
+71
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NH1
+Distance: 
+1.37241551312
+I3H_L7N
+I3S_L7D
+I3S_L7K
+I3S_L7W
+Residue origin clash: 
+101
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ2
+Distance: 
+1.5530844164
+I3T_L7S
+I3T_L7Q
+7
+['I3R/L7N', 'I3H/L7N', 'I3S/L7D', 'I3S/L7K', 'I3S/L7W', 'I3T/L7S', 'I3T/L7Q']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+F67R_V71N
+Residue origin clash: 
+4
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH2
+Distance: 
+1.42866334905
+F67R_V71W
+Residue origin clash: 
+4
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH2
+Distance: 
+1.6291137323
+F67N_V71Y
+Residue origin clash: 
+4
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE1
+Distance: 
+1.48807883139
+F67N_V71T
+F67N_V71E
+F67D_V71N
+F67D_V71W
+Residue origin clash: 
+3
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CZ3
+Distance: 
+1.28950639948
+F67Q_V71R
+Residue origin clash: 
+4
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH1
+Distance: 
+1.60516304666
+F67Q_V71Y
+F67E_V71Y
+F67H_V71S
+F67H_V71N
+F67H_V71Y
+Residue origin clash: 
+7
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.83881094117
+F67H_V71W
+Residue origin clash: 
+3
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CH2
+Distance: 
+1.88244727959
+F67K_V71N
+F67K_V71H
+F67S_V71D
+F67S_V71H
+Residue origin clash: 
+4
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+ND1
+Distance: 
+1.7257201234
+F67S_V71K
+Residue origin clash: 
+4
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NZ
+Distance: 
+1.94046850264
+F67S_V71W
+Residue origin clash: 
+104
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CZ3
+Distance: 
+1.79686590829
+F67W_V71S
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.71612270987
+F67W_V71W
+Residue origin clash: 
+3
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CZ3
+Distance: 
+1.08699051927
+F67W_V71T
+Residue origin clash: 
+4
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CZ2
+Distance: 
+1.45554612326
+F67W_V71Y
+Residue origin clash: 
+4
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CZ2
+Distance: 
+1.6423043239
+F67Y_V71T
+Residue origin clash: 
+4
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE2
+Distance: 
+1.50507087201
+25
+['F67R/V71N', 'F67R/V71W', 'F67N/V71Y', 'F67N/V71T', 'F67N/V71E', 'F67D/V71N', 'F67D/V71W', 'F67Q/V71R', 'F67Q/V71Y', 'F67E/V71Y', 'F67H/V71S', 'F67H/V71N', 'F67H/V71Y', 'F67H/V71W', 'F67K/V71N', 'F67K/V71H', 'F67S/V71D', 'F67S/V71H', 'F67S/V71K', 'F67S/V71W', 'F67W/V71S', 'F67W/V71W', 'F67W/V71T', 'F67W/V71Y', 'F67Y/V71T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L121W_W126R
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NE1
+Distance: 
+1.43716831826
+1
+['L121W/W126R']
+0
+0
+0
+0
+0
+0
+S44R_K48W
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CG
+Distance: 
+1.96277767039
+S44N_K48Y
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.37046485801
+S44N_K48T
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CG
+Distance: 
+1.9675032656
+S44D_K48N
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CG
+Distance: 
+1.65010639716
+S44D_K48W
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD2
+Distance: 
+1.49695957036
+S44Q_K48R
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.76335265774
+S44Q_K48Y
+S44E_K48Y
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE2
+Distance: 
+1.60238677524
+S44H_K48S
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.28739889652
+S44H_K48N
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.02017960893
+S44H_K48Y
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.83051371464
+S44H
+Residue origin clash: 
+48
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.35394987313
+S44H_K48W
+S44K_K48N
+S44K_K48H
+Residue origin clash: 
+204
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NZ
+Distance: 
+1.54219127551
+K48H
+Residue origin clash: 
+44
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.48627837611
+16
+['S44R/K48W', 'S44N/K48Y', 'S44N/K48T', 'S44D/K48N', 'S44D/K48W', 'S44Q/K48R', 'S44Q/K48Y', 'S44E/K48Y', 'S44H/K48S', 'S44H/K48N', 'S44H/K48Y', 'S44H', 'S44H/K48W', 'S44K/K48N', 'S44K/K48H', 'K48H']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K60Q_F67R
+Residue origin clash: 
+29
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE
+Distance: 
+1.31532386988
+1
+['K60Q/F67R']
+0
+0
+0
+0
+0
+0
+0
+0
+P86R_S90W
+Residue origin clash: 
+122
+Atom clash (A1): 
+CD
+Atom clash (A2): 
+NH1
+Distance: 
+1.39984516578
+P86N_S90Y
+Residue origin clash: 
+122
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CD1
+Distance: 
+1.70271143908
+P86D_S90W
+Residue origin clash: 
+122
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+NE1
+Distance: 
+1.90313074344
+P86Q_S90R
+Residue origin clash: 
+122
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+NH1
+Distance: 
+1.83946381776
+P86Q_S90Y
+Residue origin clash: 
+122
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+CE2
+Distance: 
+1.74420954866
+P86Q_S90H
+P86E_S90Y
+Residue origin clash: 
+122
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+CE2
+Distance: 
+0.972435986322
+P86H
+Residue origin clash: 
+90
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.789192422
+P86H_S90N
+Residue origin clash: 
+122
+Atom clash (A1): 
+CD
+Atom clash (A2): 
+CD2
+Distance: 
+1.63636709138
+P86H_S90Y
+Residue origin clash: 
+122
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+CE2
+Distance: 
+1.63029344069
+P86H_S90W
+Residue origin clash: 
+223
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.49353093701
+P86K_S90N
+Residue origin clash: 
+122
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+ND2
+Distance: 
+1.94288581554
+P86K_S90H
+Residue origin clash: 
+122
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+NZ
+Distance: 
+1.74842481891
+P86S_S90H
+Residue origin clash: 
+122
+Atom clash (A1): 
+CD
+Atom clash (A2): 
+CE1
+Distance: 
+1.99960961341
+P86S_S90K
+Residue origin clash: 
+122
+Atom clash (A1): 
+CD
+Atom clash (A2): 
+NZ
+Distance: 
+1.90034224788
+P86W
+Residue origin clash: 
+90
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.63036822007
+P86W_S90W
+Residue origin clash: 
+122
+Atom clash (A1): 
+OE1
+Atom clash (A2): 
+CE2
+Distance: 
+1.79361570452
+P86W_S90T
+Residue origin clash: 
+122
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.92320509758
+P86W_S90Y
+Residue origin clash: 
+122
+Atom clash (A1): 
+CD
+Atom clash (A2): 
+CE2
+Distance: 
+1.27087077661
+P86Y_S90T
+Residue origin clash: 
+122
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE2
+Distance: 
+1.78608990005
+20
+['P86R/S90W', 'P86N/S90Y', 'P86D/S90W', 'P86Q/S90R', 'P86Q/S90Y', 'P86Q/S90H', 'P86E/S90Y', 'P86H', 'P86H/S90N', 'P86H/S90Y', 'P86H/S90W', 'P86K/S90N', 'P86K/S90H', 'P86S/S90H', 'P86S/S90K', 'P86W', 'P86W/S90W', 'P86W/S90T', 'P86W/S90Y', 'P86Y/S90T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L99R
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CZ
+Distance: 
+1.76658775573
+L99H
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CD
+Distance: 
+1.53842068298
+R95N_L99Y
+Residue origin clash: 
+91
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+OH
+Distance: 
+1.52367938588
+R95D_L99W
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+OD2
+Distance: 
+1.99157303156
+R95Q_L99R
+Residue origin clash: 
+87
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NH1
+Distance: 
+1.89400050535
+R95Q_L99Y
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CD
+Distance: 
+1.52904538043
+R95E_L99Y
+Residue origin clash: 
+91
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+OE2
+Distance: 
+1.71540435028
+R95H_L99N
+Residue origin clash: 
+91
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CD2
+Distance: 
+1.80147902546
+R95H_L99Y
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE1
+Distance: 
+1.42640299621
+R95H_L99W
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+ND1
+Distance: 
+1.60675191076
+R95K_L99H
+Residue origin clash: 
+91
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NZ
+Distance: 
+1.1211620377
+R95S_L99H
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+ND1
+Distance: 
+1.90703930542
+R95S_L99K
+Residue origin clash: 
+91
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NZ
+Distance: 
+1.8721479273
+R95S_L99Y
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD2
+Distance: 
+1.61000914408
+R95T_L99H
+R95W_L99S
+Residue origin clash: 
+91
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE3
+Distance: 
+1.72729792066
+R95W_L99W
+Residue origin clash: 
+91
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ3
+Distance: 
+1.17596507009
+R95W_L99Q
+Residue origin clash: 
+91
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CD1
+Distance: 
+1.74085720342
+R95W_L99E
+Residue origin clash: 
+91
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD1
+Distance: 
+1.69543594662
+R95Y_L99T
+Residue origin clash: 
+91
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CD2
+Distance: 
+1.53075857275
+R95Y_L99Y
+Residue origin clash: 
+91
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CD2
+Distance: 
+1.62990406343
+21
+['L99R', 'L99H', 'R95N/L99Y', 'R95D/L99W', 'R95Q/L99R', 'R95Q/L99Y', 'R95E/L99Y', 'R95H/L99N', 'R95H/L99Y', 'R95H/L99W', 'R95K/L99H', 'R95S/L99H', 'R95S/L99K', 'R95S/L99Y', 'R95T/L99H', 'R95W/L99S', 'R95W/L99W', 'R95W/L99Q', 'R95W/L99E', 'R95Y/L99T', 'R95Y/L99Y']
+0
+0
+0
+0
+0
+0
+N101R_Q105S
+Residue origin clash: 
+145
+Atom clash (A1): 
+CZ
+Atom clash (A2): 
+NE
+Distance: 
+1.67853197674
+1
+['N101R/Q105S']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+F114R_L118S
+F114S_L118H
+2
+['F114R/L118S', 'F114S/L118H']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K19T_G23D
+1
+['K19T/G23D']
+D70K_G77R
+D70K_G77K
+2
+['D70K/G77R', 'D70K/G77K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+N68K_V75R
+Residue origin clash: 
+275
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE
+Distance: 
+0.664909318068
+N68K_V75K
+2
+['N68K/V75R', 'N68K/V75K']
+0
+0
+0
+0
+0
+0
+0
+Q141S
+Residue origin clash: 
+137
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.34187247475
+1
+['Q141S']
+A41D
+Residue origin clash: 
+36
+Atom clash (A1): 
+OG
+Atom clash (A2): 
+OD1
+Distance: 
+1.93185339527
+1
+['A41D']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A42R_L46R
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+NH1
+Distance: 
+1.71585073329
+A42R_L46H
+Residue origin clash: 
+26
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH1
+Distance: 
+1.64310758489
+A42R_L46N
+Residue origin clash: 
+17
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH2
+Distance: 
+1.73237392887
+A42R_L46W
+Residue origin clash: 
+17
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH2
+Distance: 
+1.88876576352
+A42N_L46Y
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE1
+Distance: 
+1.80020338019
+A42N_L46T
+A42N_L46E
+Residue origin clash: 
+17
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+OD1
+Distance: 
+1.97290831956
+A42D_L46W
+Residue origin clash: 
+27
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ2
+Distance: 
+1.29674090561
+A42Q_L46R
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NH1
+Distance: 
+1.70395537818
+A42Q_L46Y
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+OE1
+Distance: 
+1.98744302821
+A42Q_L46H
+Residue origin clash: 
+33
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+OE1
+Distance: 
+1.94312584054
+A42E_L46Y
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+OE2
+Distance: 
+1.53509959966
+A42H_L46S
+Residue origin clash: 
+33
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.42610493452
+A42H_L46N
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NE2
+Distance: 
+1.71985216727
+A42H_L46Y
+Residue origin clash: 
+25
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+ND1
+Distance: 
+1.90680736351
+A42H_L46W
+Residue origin clash: 
+27
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ2
+Distance: 
+1.19525970212
+A42K_L46N
+Residue origin clash: 
+33
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.03853179915
+A42K_L46H
+Residue origin clash: 
+17
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NZ
+Distance: 
+1.59179924136
+A42S_L46D
+Residue origin clash: 
+33
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+OD1
+Distance: 
+1.47154503251
+A42S_L46H
+Residue origin clash: 
+33
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+NE2
+Distance: 
+1.1981015256
+A42S_L46K
+Residue origin clash: 
+17
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NZ
+Distance: 
+1.98937364697
+A42S_L46Y
+Residue origin clash: 
+33
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE1
+Distance: 
+1.54645099609
+A42T_L46H
+Residue origin clash: 
+33
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NE2
+Distance: 
+1.91694425411
+A42T_L46R
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CZ
+Distance: 
+1.57116278192
+A42W_L46S
+Residue origin clash: 
+17
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ2
+Distance: 
+1.80885269831
+A42W_L46W
+Residue origin clash: 
+17
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ2
+Distance: 
+0.922313014022
+A42W_L46T
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE2
+Distance: 
+1.46741096927
+A42Y_L46T
+Residue origin clash: 
+17
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE2
+Distance: 
+1.35470945662
+28
+['A42R/L46R', 'A42R/L46H', 'A42R/L46N', 'A42R/L46W', 'A42N/L46Y', 'A42N/L46T', 'A42N/L46E', 'A42D/L46W', 'A42Q/L46R', 'A42Q/L46Y', 'A42Q/L46H', 'A42E/L46Y', 'A42H/L46S', 'A42H/L46N', 'A42H/L46Y', 'A42H/L46W', 'A42K/L46N', 'A42K/L46H', 'A42S/L46D', 'A42S/L46H', 'A42S/L46K', 'A42S/L46Y', 'A42T/L46H', 'A42T/L46R', 'A42W/L46S', 'A42W/L46W', 'A42W/L46T', 'A42Y/L46T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+S117Y_A129Q
+Residue origin clash: 
+121
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CD
+Distance: 
+1.74296111388
+1
+['S117Y/A129Q']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L118N_L133R
+1
+['L118N/L133R']
+0
+0
+0
+0
+0
+0
+0
+0
+D72K_L79K
+1
+['D72K/L79K']
+0
+0
+0
+0
+0
+L121D_L133E
+L121Q_L133E
+L121S_L133Y
+3
+['L121D/L133E', 'L121Q/L133E', 'L121S/L133Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+T115R_R119N
+T115K_R119H
+T115S_R119D
+R119S
+Residue origin clash: 
+115
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.43319687391
+4
+['T115R/R119N', 'T115K/R119H', 'T115S/R119D', 'R119S']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+V94R_A98R
+Residue origin clash: 
+151
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH1
+Distance: 
+1.83373947275
+V94N_A98Y
+Residue origin clash: 
+92
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+OD1
+Distance: 
+1.96573141422
+V94D_A98W
+Residue origin clash: 
+148
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CH2
+Distance: 
+1.85518408198
+V94Q_A98R
+Residue origin clash: 
+152
+Atom clash (A1): 
+N
+Atom clash (A2): 
+NH1
+Distance: 
+1.84889140247
+V94Q_A98Y
+Residue origin clash: 
+152
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE2
+Distance: 
+1.51376991749
+V94E_A98Y
+Residue origin clash: 
+152
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE2
+Distance: 
+1.78730686948
+V94H_A98N
+Residue origin clash: 
+152
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE2
+Distance: 
+1.95293330351
+V94H_A98Y
+Residue origin clash: 
+6
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD1
+Distance: 
+1.98680338398
+V94H_A98W
+Residue origin clash: 
+148
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CH2
+Distance: 
+1.8528120897
+V94K_A98H
+Residue origin clash: 
+152
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CD2
+Distance: 
+1.48161311089
+V94S_A98H
+Residue origin clash: 
+152
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.67994077944
+V94S_A98K
+Residue origin clash: 
+152
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NZ
+Distance: 
+1.4926986566
+V94S_A98Y
+Residue origin clash: 
+152
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CD1
+Distance: 
+1.83041998434
+V94T_A98H
+Residue origin clash: 
+152
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+ND1
+Distance: 
+1.77268867247
+V94W_A98S
+Residue origin clash: 
+152
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+NE1
+Distance: 
+1.33810588414
+V94W_A98W
+Residue origin clash: 
+148
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CH2
+Distance: 
+1.82484694474
+V94W_A98Q
+Residue origin clash: 
+149
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.06395545333
+V94W_A98E
+Residue origin clash: 
+152
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+OE1
+Distance: 
+1.68345784685
+V94Y_A98Y
+Residue origin clash: 
+152
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE2
+Distance: 
+1.82381472141
+19
+['V94R/A98R', 'V94N/A98Y', 'V94D/A98W', 'V94Q/A98R', 'V94Q/A98Y', 'V94E/A98Y', 'V94H/A98N', 'V94H/A98Y', 'V94H/A98W', 'V94K/A98H', 'V94S/A98H', 'V94S/A98K', 'V94S/A98Y', 'V94T/A98H', 'V94W/A98S', 'V94W/A98W', 'V94W/A98Q', 'V94W/A98E', 'V94Y/A98Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Y88D_V103K
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NZ
+Distance: 
+1.7456642974
+1
+['Y88D/V103K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+F67K_A74R
+Residue origin clash: 
+104
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NE
+Distance: 
+1.95176419633
+F67K_A74K
+Residue origin clash: 
+104
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NZ
+Distance: 
+1.8629723432
+2
+['F67K/A74R', 'F67K/A74K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+D61R_K65R
+D61R_K65W
+Residue origin clash: 
+274
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.31286410095
+D61N_K65Y
+Residue origin clash: 
+59
+Atom clash (A1): 
+OG1
+Atom clash (A2): 
+OD1
+Distance: 
+1.89569368157
+D61N_K65T
+D61N_K65E
+Residue origin clash: 
+320
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.60710378205
+5
+['D61R/K65R', 'D61R/K65W', 'D61N/K65Y', 'D61N/K65T', 'D61N/K65E']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A98R_M102R
+Residue origin clash: 
+133
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NH1
+Distance: 
+1.81606693453
+A98R_M102H
+Residue origin clash: 
+138
+Atom clash (A1): 
+CH2
+Atom clash (A2): 
+CE1
+Distance: 
+1.81867625413
+A98R_M102W
+Residue origin clash: 
+133
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+NH2
+Distance: 
+1.98276605439
+A98N_M102Y
+Residue origin clash: 
+95
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.6894278215
+A98N_M102T
+Residue origin clash: 
+153
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+ND2
+Distance: 
+1.80149316642
+A98D_M102W
+Residue origin clash: 
+138
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CH2
+Distance: 
+1.82029311647
+A98Q_M102R
+Residue origin clash: 
+149
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NE2
+Distance: 
+1.76107643758
+A98Q_M102Y
+Residue origin clash: 
+138
+Atom clash (A1): 
+CH2
+Atom clash (A2): 
+OH
+Distance: 
+1.92713031526
+A98E_M102Y
+Residue origin clash: 
+149
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.72116870603
+A98H_M102S
+Residue origin clash: 
+149
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+ND1
+Distance: 
+1.5927308301
+A98H_M102N
+Residue origin clash: 
+153
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE1
+Distance: 
+1.4681878301
+A98H_M102Y
+Residue origin clash: 
+138
+Atom clash (A1): 
+CZ2
+Atom clash (A2): 
+CE1
+Distance: 
+1.7081744922
+A98H_M102W
+Residue origin clash: 
+138
+Atom clash (A1): 
+CE3
+Atom clash (A2): 
+CH2
+Distance: 
+1.30167080044
+A98K_M102N
+Residue origin clash: 
+149
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.37472349921
+A98K_M102H
+Residue origin clash: 
+149
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE1
+Distance: 
+1.56557659462
+A98S_M102H
+A98S_M102K
+Residue origin clash: 
+153
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+NZ
+Distance: 
+1.79418303271
+A98T_M102H
+Residue origin clash: 
+149
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NE2
+Distance: 
+1.81009434768
+A98T_M102R
+Residue origin clash: 
+153
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+CZ
+Distance: 
+1.45639002451
+A98W_M102S
+Residue origin clash: 
+149
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CD1
+Distance: 
+1.88903336083
+A98W_M102W
+Residue origin clash: 
+138
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CZ3
+Distance: 
+1.73609177447
+A98W_M102T
+Residue origin clash: 
+149
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CD1
+Distance: 
+1.59797246755
+A98Y_M102T
+Residue origin clash: 
+149
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CD1
+Distance: 
+1.8495622181
+A98Y_M102Y
+Residue origin clash: 
+138
+Atom clash (A1): 
+CZ2
+Atom clash (A2): 
+CE1
+Distance: 
+1.64804367662
+24
+['A98R/M102R', 'A98R/M102H', 'A98R/M102W', 'A98N/M102Y', 'A98N/M102T', 'A98D/M102W', 'A98Q/M102R', 'A98Q/M102Y', 'A98E/M102Y', 'A98H/M102S', 'A98H/M102N', 'A98H/M102Y', 'A98H/M102W', 'A98K/M102N', 'A98K/M102H', 'A98S/M102H', 'A98S/M102K', 'A98T/M102H', 'A98T/M102R', 'A98W/M102S', 'A98W/M102W', 'A98W/M102T', 'A98Y/M102T', 'A98Y/M102Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K19Q_Y25W
+1
+['K19Q/Y25W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+E108R_A112N
+Residue origin clash: 
+81
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NE
+Distance: 
+1.90922982591
+E108S_A112D
+E108S_A112W
+Residue origin clash: 
+84
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ2
+Distance: 
+1.79032461776
+E108T_A112S
+E108T_A112Q
+Residue origin clash: 
+81
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NE2
+Distance: 
+1.76688684475
+E108T_A112R
+Residue origin clash: 
+81
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NH1
+Distance: 
+1.84108413865
+6
+['E108R/A112N', 'E108S/A112D', 'E108S/A112W', 'E108T/A112S', 'E108T/A112Q', 'E108T/A112R']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+T109N_G113Y
+Residue origin clash: 
+214
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.33238659178
+T109D_G113W
+T109E_G113Y
+T109H_G113S
+T109K_G113N
+T109W_G113W
+6
+['T109N/G113Y', 'T109D/G113W', 'T109E/G113Y', 'T109H/G113S', 'T109K/G113N', 'T109W/G113W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A74R_I78R
+Residue origin clash: 
+99
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH2
+Distance: 
+1.88043696555
+A74R_I78N
+Residue origin clash: 
+99
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH2
+Distance: 
+1.2602341361
+A74R_I78W
+Residue origin clash: 
+99
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH2
+Distance: 
+1.32225526266
+A74N_I78Y
+Residue origin clash: 
+71
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.96357001744
+A74N_I78T
+Residue origin clash: 
+100
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.92535724313
+A74D_I78W
+Residue origin clash: 
+103
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+OD1
+Distance: 
+1.39416483532
+A74Q_I78R
+Residue origin clash: 
+99
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH1
+Distance: 
+1.56001049593
+A74Q_I78Y
+Residue origin clash: 
+100
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.67261422968
+A74E_I78Y
+Residue origin clash: 
+100
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE2
+Distance: 
+1.57910709667
+A74H_I78S
+Residue origin clash: 
+103
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.51791069684
+A74H_I78N
+Residue origin clash: 
+100
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.70860784003
+A74H_I78Y
+Residue origin clash: 
+100
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.40658713709
+A74H_I78W
+Residue origin clash: 
+99
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CH2
+Distance: 
+1.68997345612
+A74K_I78N
+Residue origin clash: 
+103
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NZ
+Distance: 
+1.76186562769
+A74K_I78H
+Residue origin clash: 
+100
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NZ
+Distance: 
+1.36003841535
+A74S_I78H
+A74S_I78K
+Residue origin clash: 
+100
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NZ
+Distance: 
+1.73863559445
+A74T_I78R
+A74W_I78S
+Residue origin clash: 
+100
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ2
+Distance: 
+1.74029715744
+A74W_I78W
+Residue origin clash: 
+100
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ2
+Distance: 
+0.713427019781
+A74W_I78T
+Residue origin clash: 
+100
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ2
+Distance: 
+1.89997615272
+A74W_I78Y
+Residue origin clash: 
+99
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OH
+Distance: 
+1.48629675985
+A74Y_I78T
+Residue origin clash: 
+103
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.6321641968
+23
+['A74R/I78R', 'A74R/I78N', 'A74R/I78W', 'A74N/I78Y', 'A74N/I78T', 'A74D/I78W', 'A74Q/I78R', 'A74Q/I78Y', 'A74E/I78Y', 'A74H/I78S', 'A74H/I78N', 'A74H/I78Y', 'A74H/I78W', 'A74K/I78N', 'A74K/I78H', 'A74S/I78H', 'A74S/I78K', 'A74T/I78R', 'A74W/I78S', 'A74W/I78W', 'A74W/I78T', 'A74W/I78Y', 'A74Y/I78T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+E64R_N68R
+Residue origin clash: 
+274
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH1
+Distance: 
+0.819817646639
+E64R_N68H
+Residue origin clash: 
+185
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.89882184055
+E64R_N68W
+Residue origin clash: 
+185
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.44589091968
+E64N_N68Y
+Residue origin clash: 
+61
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.82706466746
+E64N_N68T
+Residue origin clash: 
+274
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.53472594026
+E64N_N68E
+Residue origin clash: 
+185
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.70361607267
+E64D_N68W
+Residue origin clash: 
+185
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.74234636937
+E64Q_N68R
+Residue origin clash: 
+274
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.63529541521
+E64Q_N68Y
+Residue origin clash: 
+185
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.8778565709
+E64Q_N68H
+Residue origin clash: 
+4
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE1
+Distance: 
+1.79901101712
+10
+['E64R/N68R', 'E64R/N68H', 'E64R/N68W', 'E64N/N68Y', 'E64N/N68T', 'E64N/N68E', 'E64D/N68W', 'E64Q/N68R', 'E64Q/N68Y', 'E64Q/N68H']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+M6R_D10W
+Residue origin clash: 
+101
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NH1
+Distance: 
+1.86452531595
+M6N_D10Y
+Residue origin clash: 
+101
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+CD1
+Distance: 
+1.97914517015
+M6N_D10T
+M6D_D10W
+Residue origin clash: 
+145
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CH2
+Distance: 
+1.85686149255
+M6Q_D10K
+Residue origin clash: 
+161
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+NE2
+Distance: 
+1.42893996682
+M6Q_D10R
+Residue origin clash: 
+149
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+NH1
+Distance: 
+1.7721300141
+M6Q_D10Y
+Residue origin clash: 
+161
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+NE2
+Distance: 
+1.4241125006
+M6E_D10Y
+Residue origin clash: 
+101
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+CE2
+Distance: 
+1.76050102382
+M6H_D10N
+Residue origin clash: 
+101
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+NE2
+Distance: 
+1.67283915778
+M6H_D10Y
+Residue origin clash: 
+161
+Atom clash (A1): 
+CZ
+Atom clash (A2): 
+OH
+Distance: 
+1.83213767367
+M6H_D10K
+Residue origin clash: 
+101
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+CD2
+Distance: 
+1.70656743748
+M6H_D10W
+Residue origin clash: 
+145
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CH2
+Distance: 
+1.8150427667
+M6K_D10N
+Residue origin clash: 
+161
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD
+Distance: 
+1.52963163925
+M6K_D10H
+Residue origin clash: 
+161
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+CE1
+Distance: 
+1.92211320915
+M6S_D10H
+Residue origin clash: 
+101
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+ND1
+Distance: 
+1.87492952948
+M6S_D10K
+Residue origin clash: 
+101
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+NZ
+Distance: 
+1.65276144618
+M6W_D10S
+Residue origin clash: 
+161
+Atom clash (A1): 
+OH
+Atom clash (A2): 
+NE1
+Distance: 
+1.50320684071
+M6W_D10W
+Residue origin clash: 
+145
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.48041826061
+M6W_D10T
+Residue origin clash: 
+101
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.75726146902
+M6W_D10Y
+Residue origin clash: 
+101
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ2
+Distance: 
+1.53766231931
+M6Y_D10T
+Residue origin clash: 
+101
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+CE2
+Distance: 
+0.852201130707
+21
+['M6R/D10W', 'M6N/D10Y', 'M6N/D10T', 'M6D/D10W', 'M6Q/D10K', 'M6Q/D10R', 'M6Q/D10Y', 'M6E/D10Y', 'M6H/D10N', 'M6H/D10Y', 'M6H/D10K', 'M6H/D10W', 'M6K/D10N', 'M6K/D10H', 'M6S/D10H', 'M6S/D10K', 'M6W/D10S', 'M6W/D10W', 'M6W/D10T', 'M6W/D10Y', 'M6Y/D10T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+E5R_I9R
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+NH1
+Distance: 
+1.51196154624
+E5R_I9W
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+NH1
+Distance: 
+1.87154745274
+E5N_I9Y
+E5N_I9T
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+ND2
+Distance: 
+1.7110433261
+E5D_I9W
+Residue origin clash: 
+164
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE2
+Distance: 
+1.86097295561
+E5Q_I9R
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+OE1
+Distance: 
+1.46796178471
+E5Q_I9Y
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+OE1
+Distance: 
+1.7144780781
+I9Y
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+OE2
+Distance: 
+1.1953629258
+E5H_I9S
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD2
+Distance: 
+1.52658124017
+E5H_I9N
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD2
+Distance: 
+1.84292070984
+E5H_I9Y
+E5H_I9W
+Residue origin clash: 
+164
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ3
+Distance: 
+1.90106984376
+E5K_I9N
+Residue origin clash: 
+282
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD
+Distance: 
+1.59776903634
+E5K_I9H
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+NZ
+Distance: 
+1.58693899171
+E5S_I9H
+E5S_I9K
+E5T_I9H
+E5W_I9S
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD2
+Distance: 
+1.26317562014
+E5W_I9W
+Residue origin clash: 
+1
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ3
+Distance: 
+1.87522145304
+E5W_I9T
+Residue origin clash: 
+1
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CE3
+Distance: 
+1.07495636688
+E5W_I9Y
+Residue origin clash: 
+1
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CE3
+Distance: 
+1.61535066126
+E5Y_I9T
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD2
+Distance: 
+1.78361587411
+E5Y_I9Y
+Residue origin clash: 
+1
+Atom clash (A1): 
+CE
+Atom clash (A2): 
+CD2
+Distance: 
+1.4870280726
+23
+['E5R/I9R', 'E5R/I9W', 'E5N/I9Y', 'E5N/I9T', 'E5D/I9W', 'E5Q/I9R', 'E5Q/I9Y', 'I9Y', 'E5H/I9S', 'E5H/I9N', 'E5H/I9Y', 'E5H/I9W', 'E5K/I9N', 'E5K/I9H', 'E5S/I9H', 'E5S/I9K', 'E5T/I9H', 'E5W/I9S', 'E5W/I9W', 'E5W/I9T', 'E5W/I9Y', 'E5Y/I9T', 'E5Y/I9Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+V71K_I78R
+V71K_I78K
+Residue origin clash: 
+100
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NZ
+Distance: 
+1.53109520264
+2
+['V71K/I78R', 'V71K/I78K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+I150R_R154W
+Residue origin clash: 
+130
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ2
+Distance: 
+1.19868704819
+I150N_R154Y
+Residue origin clash: 
+130
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE2
+Distance: 
+1.12981186685
+I150N_R154T
+I150Q_R154K
+Residue origin clash: 
+129
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NZ
+Distance: 
+1.83276156089
+I150Q
+Residue origin clash: 
+130
+Atom clash (A1): 
+C
+Atom clash (A2): 
+NH2
+Distance: 
+1.62508362357
+I150Q_R154Y
+Residue origin clash: 
+130
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+OH
+Distance: 
+1.62715519959
+I150E_R154Y
+Residue origin clash: 
+130
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE1
+Distance: 
+1.87852185047
+I150H_R154S
+Residue origin clash: 
+130
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE1
+Distance: 
+1.9863505329
+I150H_R154N
+Residue origin clash: 
+229
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.83309146827
+I150H_R154Y
+Residue origin clash: 
+126
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD1
+Distance: 
+1.89168488047
+I150H_R154K
+Residue origin clash: 
+130
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.68903142124
+I150H_R154W
+Residue origin clash: 
+127
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.89151439899
+I150K_R154N
+Residue origin clash: 
+130
+Atom clash (A1): 
+N
+Atom clash (A2): 
+NZ
+Distance: 
+1.90963868831
+I150K_R154H
+Residue origin clash: 
+130
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE
+Distance: 
+1.93876347052
+I150S_R154H
+Residue origin clash: 
+130
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE2
+Distance: 
+0.991892395513
+I150S_R154K
+Residue origin clash: 
+130
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE
+Distance: 
+1.33986446613
+I150W_R154S
+Residue origin clash: 
+130
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE1
+Distance: 
+1.74688010101
+I150W_R154W
+Residue origin clash: 
+126
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE2
+Distance: 
+1.95249014317
+I150W_R154T
+Residue origin clash: 
+130
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NE1
+Distance: 
+1.55288790468
+I150W_R154Y
+Residue origin clash: 
+130
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+0.756236864437
+I150Y_R154T
+Residue origin clash: 
+130
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.48329297587
+21
+['I150R/R154W', 'I150N/R154Y', 'I150N/R154T', 'I150Q/R154K', 'I150Q', 'I150Q/R154Y', 'I150E/R154Y', 'I150H/R154S', 'I150H/R154N', 'I150H/R154Y', 'I150H/R154K', 'I150H/R154W', 'I150K/R154N', 'I150K/R154H', 'I150S/R154H', 'I150S/R154K', 'I150W/R154S', 'I150W/R154W', 'I150W/R154T', 'I150W/R154Y', 'I150Y/R154T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+M102E_V149T
+1
+['M102E/V149T']
+0
+0
+0
+0
+0
+0
+0
+A93R_C97N
+Residue origin clash: 
+213
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CG
+Distance: 
+1.77052004589
+1
+['A93R/C97N']
+0
+0
+E45R_A49R
+Residue origin clash: 
+31
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NH1
+Distance: 
+1.99196514702
+E45R_A49W
+Residue origin clash: 
+32
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH2
+Distance: 
+1.89908525719
+E45N_A49Y
+Residue origin clash: 
+33
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE1
+Distance: 
+1.98973183872
+E45N_A49T
+Residue origin clash: 
+33
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.69676178446
+E45N_A49E
+E45D_A49N
+E45D_A49W
+Residue origin clash: 
+180
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ3
+Distance: 
+1.94402413726
+E45Q_A49R
+Residue origin clash: 
+31
+Atom clash (A1): 
+NE2
+Atom clash (A2): 
+NH1
+Distance: 
+1.95252835127
+E45Q_A49Y
+Residue origin clash: 
+33
+Atom clash (A1): 
+C
+Atom clash (A2): 
+OE1
+Distance: 
+1.80538250055
+E45Q_A49H
+A49Y
+Residue origin clash: 
+33
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+OE2
+Distance: 
+1.79273102485
+E45H_A49S
+E45H_A49N
+Residue origin clash: 
+207
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.26771780862
+E45H_A49Y
+Residue origin clash: 
+33
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.80536979771
+E45H_A49K
+Residue origin clash: 
+33
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CD2
+Distance: 
+1.45631412089
+E45H_A49W
+Residue origin clash: 
+33
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.65907700566
+E45K_A49N
+Residue origin clash: 
+207
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.35181564314
+E45K_A49H
+Residue origin clash: 
+33
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NZ
+Distance: 
+1.8724264233
+E45S_A49H
+Residue origin clash: 
+207
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.9640209162
+E45S_A49K
+Residue origin clash: 
+207
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD
+Distance: 
+1.4431766861
+E45S_A49Y
+Residue origin clash: 
+207
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.77599845372
+E45W_A49S
+Residue origin clash: 
+32
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CH2
+Distance: 
+1.57850053245
+E45W_A49W
+Residue origin clash: 
+32
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CH2
+Distance: 
+1.85030319618
+E45W_A49T
+Residue origin clash: 
+31
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CH2
+Distance: 
+1.97082179027
+E45W_A49Y
+Residue origin clash: 
+31
+Atom clash (A1): 
+NE2
+Atom clash (A2): 
+CE2
+Distance: 
+1.57280832489
+E45Y_A49T
+Residue origin clash: 
+31
+Atom clash (A1): 
+NE2
+Atom clash (A2): 
+OH
+Distance: 
+1.87931333796
+26
+['E45R/A49R', 'E45R/A49W', 'E45N/A49Y', 'E45N/A49T', 'E45N/A49E', 'E45D/A49N', 'E45D/A49W', 'E45Q/A49R', 'E45Q/A49Y', 'E45Q/A49H', 'A49Y', 'E45H/A49S', 'E45H/A49N', 'E45H/A49Y', 'E45H/A49K', 'E45H/A49W', 'E45K/A49N', 'E45K/A49H', 'E45S/A49H', 'E45S/A49K', 'E45S/A49Y', 'E45W/A49S', 'E45W/A49W', 'E45W/A49T', 'E45W/A49Y', 'E45Y/A49T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+M120E_N132R
+M120T_N132Q
+2
+['M120E/N132R', 'M120T/N132Q']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+I100R
+Residue origin clash: 
+75
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NH2
+Distance: 
+1.88731228565
+I100H
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+NE
+Distance: 
+1.40339378869
+I100W
+Residue origin clash: 
+88
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CH2
+Distance: 
+1.74529680198
+R96N_I100Y
+Residue origin clash: 
+88
+Atom clash (A1): 
+OH
+Atom clash (A2): 
+CZ
+Distance: 
+1.98985318007
+R96N_I100T
+R96D_I100W
+Residue origin clash: 
+75
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ3
+Distance: 
+1.284926146
+R96Q_I100R
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+NE2
+Distance: 
+1.59171026113
+R96Q_I100Y
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+NE2
+Distance: 
+1.34434123513
+R96E_I100Y
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+CE1
+Distance: 
+1.81198987601
+R96H_I100S
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+ND1
+Distance: 
+1.53716596193
+R96H_I100N
+Residue origin clash: 
+88
+Atom clash (A1): 
+CZ
+Atom clash (A2): 
+CE1
+Distance: 
+1.85889986004
+R96H_I100Y
+Residue origin clash: 
+78
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CD1
+Distance: 
+1.91232692401
+R96H_I100W
+Residue origin clash: 
+75
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ3
+Distance: 
+1.34702005716
+R96K_I100N
+Residue origin clash: 
+88
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CD
+Distance: 
+1.82976346177
+R96K_I100H
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+CE1
+Distance: 
+1.83174384057
+R96S_I100H
+R96S_I100K
+Residue origin clash: 
+88
+Atom clash (A1): 
+OH
+Atom clash (A2): 
+NZ
+Distance: 
+1.94125595992
+R96S_I100Y
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+CE1
+Distance: 
+1.97230866085
+R96T_I100H
+R96W_I100S
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+CD1
+Distance: 
+1.89383348995
+R96W_I100W
+Residue origin clash: 
+74
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ3
+Distance: 
+1.58972767883
+R96W_I100T
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+CD1
+Distance: 
+1.56590872559
+R96Y_I100T
+Residue origin clash: 
+88
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+CD1
+Distance: 
+1.77194730934
+23
+['I100R', 'I100H', 'I100W', 'R96N/I100Y', 'R96N/I100T', 'R96D/I100W', 'R96Q/I100R', 'R96Q/I100Y', 'R96E/I100Y', 'R96H/I100S', 'R96H/I100N', 'R96H/I100Y', 'R96H/I100W', 'R96K/I100N', 'R96K/I100H', 'R96S/I100H', 'R96S/I100K', 'R96S/I100Y', 'R96T/I100H', 'R96W/I100S', 'R96W/I100W', 'R96W/I100T', 'R96Y/I100T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+F4E_E64Q
+Residue origin clash: 
+67
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+OE2
+Distance: 
+1.85948134031
+1
+['F4E/E64Q']
+0
+Q69R_A73N
+Residue origin clash: 
+76
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+ND2
+Distance: 
+1.93964011477
+Q69R_A73W
+Residue origin clash: 
+208
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.62683387288
+Q69N_A73Y
+Residue origin clash: 
+209
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD1
+Distance: 
+1.46357595946
+Q69N_A73T
+Q69N_A73E
+Residue origin clash: 
+208
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.61591238535
+Q69D_A73N
+Residue origin clash: 
+76
+Atom clash (A1): 
+NH2
+Atom clash (A2): 
+ND2
+Distance: 
+0.964561925123
+Q69D_A73W
+Residue origin clash: 
+208
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.60088740917
+A73R
+Residue origin clash: 
+69
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.43850343477
+A73Y
+Residue origin clash: 
+69
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.43015120553
+Q69E_A73Y
+Residue origin clash: 
+208
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.68472868796
+Q69H_A73S
+Residue origin clash: 
+208
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.9385554905
+Q69H_A73N
+Residue origin clash: 
+209
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.89894826786
+Q69H_A73Y
+Q69H_A73W
+Q69K_A73N
+Residue origin clash: 
+208
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE
+Distance: 
+1.21510669693
+Q69K_A73H
+Residue origin clash: 
+208
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.85369194789
+Q69S_A73D
+Residue origin clash: 
+208
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.98631251174
+Q69S_A73H
+Residue origin clash: 
+209
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.71438643124
+Q69S_A73K
+Residue origin clash: 
+235
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NZ
+Distance: 
+1.47623439418
+Q69S_A73W
+Residue origin clash: 
+76
+Atom clash (A1): 
+CZ
+Atom clash (A2): 
+CE3
+Distance: 
+1.83003849685
+Q69W_A73S
+Residue origin clash: 
+180
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE3
+Distance: 
+1.65809762657
+Q69W_A73W
+Residue origin clash: 
+180
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.6169794224
+Q69W_A73T
+Residue origin clash: 
+180
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE3
+Distance: 
+1.34339881992
+Q69W_A73Y
+Residue origin clash: 
+70
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+CE3
+Distance: 
+1.6398522871
+Q69Y_A73T
+Residue origin clash: 
+180
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.87648158779
+25
+['Q69R/A73N', 'Q69R/A73W', 'Q69N/A73Y', 'Q69N/A73T', 'Q69N/A73E', 'Q69D/A73N', 'Q69D/A73W', 'A73R', 'A73Y', 'Q69E/A73Y', 'Q69H/A73S', 'Q69H/A73N', 'Q69H/A73Y', 'Q69H/A73W', 'Q69K/A73N', 'Q69K/A73H', 'Q69S/A73D', 'Q69S/A73H', 'Q69S/A73K', 'Q69S/A73W', 'Q69W/A73S', 'Q69W/A73W', 'Q69W/A73T', 'Q69W/A73Y', 'Q69Y/A73T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K43R_D47N
+Residue origin clash: 
+271
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH2
+Distance: 
+1.7907616351
+K43R_D47W
+Residue origin clash: 
+55
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ2
+Distance: 
+1.13897503389
+K43N_D47Y
+Residue origin clash: 
+40
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD1
+Distance: 
+1.87668534999
+K43N_D47T
+K43N_D47E
+Residue origin clash: 
+52
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.67272407055
+K43D_D47W
+Residue origin clash: 
+52
+Atom clash (A1): 
+C
+Atom clash (A2): 
+CZ3
+Distance: 
+1.97894389055
+K43Q_D47R
+K43Q_D47Y
+K43Q_D47H
+Residue origin clash: 
+54
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CE1
+Distance: 
+1.59632733962
+K43E_D47Y
+Residue origin clash: 
+171
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.98390463669
+K43H_D47S
+Residue origin clash: 
+171
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND1
+Distance: 
+1.69301543554
+K43H_D47N
+K43H_D47Y
+Residue origin clash: 
+54
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CE1
+Distance: 
+1.30955363039
+K43H_D47W
+Residue origin clash: 
+53
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CZ3
+Distance: 
+1.87506521434
+14
+['K43R/D47N', 'K43R/D47W', 'K43N/D47Y', 'K43N/D47T', 'K43N/D47E', 'K43D/D47W', 'K43Q/D47R', 'K43Q/D47Y', 'K43Q/D47H', 'K43E/D47Y', 'K43H/D47S', 'K43H/D47N', 'K43H/D47Y', 'K43H/D47W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K85R_D89R
+Residue origin clash: 
+79
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD
+Distance: 
+1.5194466863
+K85R_D89N
+K85R_D89W
+Residue origin clash: 
+79
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CZ3
+Distance: 
+1.87924799417
+K85N_D89Y
+K85N_D89T
+K85N_D89E
+K85D_D89N
+K85D_D89W
+K85Q_D89R
+K85Q_D89Y
+Residue origin clash: 
+244
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.99953874039
+K85E_D89Y
+Residue origin clash: 
+79
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OE1
+Distance: 
+1.83497960458
+K85H_D89S
+K85H_D89N
+K85H_D89Y
+Residue origin clash: 
+244
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.54190482524
+K85H_D89W
+15
+['K85R/D89R', 'K85R/D89N', 'K85R/D89W', 'K85N/D89Y', 'K85N/D89T', 'K85N/D89E', 'K85D/D89N', 'K85D/D89W', 'K85Q/D89R', 'K85Q/D89Y', 'K85E/D89Y', 'K85H/D89S', 'K85H/D89N', 'K85H/D89Y', 'K85H/D89W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+L99R_V103W
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+NH1
+Distance: 
+1.91838548836
+L99N_V103Y
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE1
+Distance: 
+1.65842052279
+L99N_V103T
+L99N_V103E
+L99D_V103W
+Residue origin clash: 
+84
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE2
+Distance: 
+1.99076915999
+L99Q_V103R
+Residue origin clash: 
+84
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NH2
+Distance: 
+1.36425034393
+L99Q_V103Y
+Residue origin clash: 
+84
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+OH
+Distance: 
+1.60132673302
+L99E_V103Y
+L99H_V103S
+L99H_V103N
+L99H_V103Y
+Residue origin clash: 
+84
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+OH
+Distance: 
+1.71552738574
+L99H_V103W
+Residue origin clash: 
+84
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE2
+Distance: 
+1.8369063215
+L99K_V103N
+L99K_V103H
+L99S_V103H
+L99S_V103K
+L99S_V103Y
+L99W_V103S
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CZ2
+Distance: 
+1.56411489749
+L99W_V103W
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+CZ2
+Distance: 
+1.5981019283
+L99W_V103T
+Residue origin clash: 
+78
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ2
+Distance: 
+1.68832802317
+L99Y_V103T
+Residue origin clash: 
+78
+Atom clash (A1): 
+CG1
+Atom clash (A2): 
+CE2
+Distance: 
+1.79894220427
+21
+['L99R/V103W', 'L99N/V103Y', 'L99N/V103T', 'L99N/V103E', 'L99D/V103W', 'L99Q/V103R', 'L99Q/V103Y', 'L99E/V103Y', 'L99H/V103S', 'L99H/V103N', 'L99H/V103Y', 'L99H/V103W', 'L99K/V103N', 'L99K/V103H', 'L99S/V103H', 'L99S/V103K', 'L99S/V103Y', 'L99W/V103S', 'L99W/V103W', 'L99W/V103T', 'L99Y/V103T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+N68R_D72N
+Residue origin clash: 
+275
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CG
+Distance: 
+1.86301339383
+N68R_D72W
+Residue origin clash: 
+275
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CG
+Distance: 
+1.91873441041
+D72Y
+Residue origin clash: 
+68
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.41317245467
+3
+['N68R/D72N', 'N68R/D72W', 'D72Y']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+D47N_N53Q
+Residue origin clash: 
+271
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE2
+Distance: 
+1.83184301129
+1
+['D47N/N53Q']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+T142S_A146H
+Residue origin clash: 
+138
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NE2
+Distance: 
+1.21952642545
+1
+['T142S/A146H']
+0
+0
+D20S_Y24Q
+1
+['D20S/Y24Q']
+0
+M102N_M106H
+M102E_M106E
+M102K_M106E
+3
+['M102N/M106H', 'M102E/M106E', 'M102K/M106E']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+V87R_L118N
+Residue origin clash: 
+99
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+NH1
+Distance: 
+1.67039366402
+1
+['V87R/L118N']
+0
+0
+0
+C97K_F104R
+Residue origin clash: 
+6
+Atom clash (A1): 
+SD
+Atom clash (A2): 
+CE
+Distance: 
+1.74304722258
+C97K_F104K
+Residue origin clash: 
+3
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE
+Distance: 
+1.66035543625
+2
+['C97K/F104R', 'C97K/F104K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+M120Y_E128H
+Residue origin clash: 
+232
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.90306123129
+1
+['M120Y/E128H']
+0
+0
+0
+0
+0
+0
+A41K_K48R
+Residue origin clash: 
+45
+Atom clash (A1): 
+CD
+Atom clash (A2): 
+NH2
+Distance: 
+1.63346760674
+A41K
+Residue origin clash: 
+48
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.72036260006
+2
+['A41K/K48R', 'A41K']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+E64K_V71R
+Residue origin clash: 
+4
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NE
+Distance: 
+1.74509191785
+E64K_V71K
+Residue origin clash: 
+4
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NZ
+Distance: 
+1.42682991955
+2
+['E64K/V71R', 'E64K/V71K']
+0
+0
+0
+0
+0
+0
+0
+0
+F4R
+Residue origin clash: 
+8
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.77479265057
+F4R_R8N
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ
+Distance: 
+1.78039353853
+F4R_R8W
+Residue origin clash: 
+67
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CH2
+Distance: 
+1.22805772493
+F4N_R8Y
+Residue origin clash: 
+2
+Atom clash (A1): 
+OD1
+Atom clash (A2): 
+OD1
+Distance: 
+1.60914759097
+F4N_R8T
+F4N_R8E
+Residue origin clash: 
+67
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+ND2
+Distance: 
+1.62970611472
+F4D_R8N
+Residue origin clash: 
+29
+Atom clash (A1): 
+CG2
+Atom clash (A2): 
+ND2
+Distance: 
+1.67901128151
+F4D_R8W
+Residue origin clash: 
+67
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+OD1
+Distance: 
+1.59810778697
+F4Q
+Residue origin clash: 
+8
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.65807847915
+F4Q_R8Y
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.94498050189
+F4Q_R8H
+Residue origin clash: 
+29
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CE1
+Distance: 
+1.87587141272
+F4E_R8Y
+Residue origin clash: 
+67
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+CE1
+Distance: 
+1.6612107223
+F4H_R8S
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.7210907124
+F4H_R8N
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE2
+Distance: 
+1.79072319841
+F4H_R8Y
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD2
+Distance: 
+1.86245602042
+F4H_R8W
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE1
+Distance: 
+1.47957645193
+F4K_R8N
+Residue origin clash: 
+67
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE
+Distance: 
+1.19235661015
+F4K_R8H
+Residue origin clash: 
+67
+Atom clash (A1): 
+CE1
+Atom clash (A2): 
+CE1
+Distance: 
+1.70111422563
+F4S_R8D
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+OD2
+Distance: 
+1.76035125506
+F4S_R8H
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+0.877483113347
+F4S_R8K
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CD
+Distance: 
+1.623025781
+F4W_R8S
+Residue origin clash: 
+186
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ2
+Distance: 
+1.9719206594
+F4W_R8W
+Residue origin clash: 
+29
+Atom clash (A1): 
+CD1
+Atom clash (A2): 
+CE2
+Distance: 
+1.97750500298
+F4W_R8T
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NE1
+Distance: 
+1.16330488827
+F4W_R8Y
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.64198778257
+F4Y_R8T
+Residue origin clash: 
+237
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CE1
+Distance: 
+1.45660376818
+26
+['F4R', 'F4R/R8N', 'F4R/R8W', 'F4N/R8Y', 'F4N/R8T', 'F4N/R8E', 'F4D/R8N', 'F4D/R8W', 'F4Q', 'F4Q/R8Y', 'F4Q/R8H', 'F4E/R8Y', 'F4H/R8S', 'F4H/R8N', 'F4H/R8Y', 'F4H/R8W', 'F4K/R8N', 'F4K/R8H', 'F4S/R8D', 'F4S/R8H', 'F4S/R8K', 'F4W/R8S', 'F4W/R8W', 'F4W/R8T', 'F4W/R8Y', 'F4Y/R8T']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+K65R_Q69N
+Residue origin clash: 
+181
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ
+Distance: 
+1.33805371392
+K65R_Q69W
+Residue origin clash: 
+181
+Atom clash (A1): 
+O
+Atom clash (A2): 
+CZ
+Distance: 
+1.36208134384
+K65N_Q69Y
+K65N_Q69T
+K65D_Q69W
+K65Q_Q69R
+Residue origin clash: 
+181
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH1
+Distance: 
+1.14774803473
+K65Q_Q69Y
+K65E_Q69Y
+K65H_Q69S
+K65H_Q69N
+K65H_Q69Y
+K65H_Q69K
+K65H_Q69W
+13
+['K65R/Q69N', 'K65R/Q69W', 'K65N/Q69Y', 'K65N/Q69T', 'K65D/Q69W', 'K65Q/Q69R', 'K65Q/Q69Y', 'K65E/Q69Y', 'K65H/Q69S', 'K65H/Q69N', 'K65H/Q69Y', 'K65H/Q69K', 'K65H/Q69W']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+D70R_A74R
+Residue origin clash: 
+104
+Atom clash (A1): 
+N
+Atom clash (A2): 
+NH1
+Distance: 
+1.62871618612
+D70R_A74H
+Residue origin clash: 
+104
+Atom clash (A1): 
+O
+Atom clash (A2): 
+NH2
+Distance: 
+1.92927684952
+D70R_A74N
+Residue origin clash: 
+104
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NH2
+Distance: 
+1.90805679866
+D70R_A74W
+Residue origin clash: 
+104
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+NE1
+Distance: 
+1.93274500937
+D70N_A74Y
+Residue origin clash: 
+104
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE1
+Distance: 
+1.12515080988
+D70N_A74T
+Residue origin clash: 
+104
+Atom clash (A1): 
+CE2
+Atom clash (A2): 
+ND2
+Distance: 
+1.99329723703
+D70N_A74E
+Residue origin clash: 
+104
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+OD1
+Distance: 
+1.90554145912
+A74W
+Residue origin clash: 
+70
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CB
+Distance: 
+1.42489287877
+D70Q_A74R
+Residue origin clash: 
+104
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ
+Distance: 
+1.90185734369
+D70Q_A74Y
+Residue origin clash: 
+104
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE2
+Distance: 
+1.40226019516
+D70Q_A74H
+D70E_A74Y
+Residue origin clash: 
+104
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE2
+Distance: 
+1.92868764777
+D70H_A74S
+Residue origin clash: 
+104
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NE2
+Distance: 
+1.95259366343
+D70H_A74N
+Residue origin clash: 
+104
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NE2
+Distance: 
+1.91085178247
+D70H_A74Y
+Residue origin clash: 
+104
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE2
+Distance: 
+1.96008750401
+D70H_A74W
+Residue origin clash: 
+103
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CE3
+Distance: 
+1.85728927696
+D70K_A74N
+D70K_A74H
+Residue origin clash: 
+104
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NZ
+Distance: 
+1.94078568238
+D70S_A74D
+D70S_A74H
+Residue origin clash: 
+104
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+CE1
+Distance: 
+1.92416734433
+D70S_A74K
+Residue origin clash: 
+104
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+NZ
+Distance: 
+1.31443510992
+D70S_A74Q
+Residue origin clash: 
+104
+Atom clash (A1): 
+CD2
+Atom clash (A2): 
+NE2
+Distance: 
+1.34215324254
+D70T_A74R
+Residue origin clash: 
+104
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CZ
+Distance: 
+1.83108337724
+D70W_A74S
+Residue origin clash: 
+104
+Atom clash (A1): 
+CG
+Atom clash (A2): 
+CZ2
+Distance: 
+1.56545807999
+D70W_A74W
+Residue origin clash: 
+103
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+CZ3
+Distance: 
+1.37556065815
+D70W_A74T
+Residue origin clash: 
+104
+Atom clash (A1): 
+CB
+Atom clash (A2): 
+CZ2
+Distance: 
+1.17797045656
+D70W_A74Y
+Residue origin clash: 
+104
+Atom clash (A1): 
+N
+Atom clash (A2): 
+CE2
+Distance: 
+1.64584675239
+D70Y_A74T
+Residue origin clash: 
+104
+Atom clash (A1): 
+CA
+Atom clash (A2): 
+OH
+Distance: 
+1.16699921509
+28
+['D70R/A74R', 'D70R/A74H', 'D70R/A74N', 'D70R/A74W', 'D70N/A74Y', 'D70N/A74T', 'D70N/A74E', 'A74W', 'D70Q/A74R', 'D70Q/A74Y', 'D70Q/A74H', 'D70E/A74Y', 'D70H/A74S', 'D70H/A74N', 'D70H/A74Y', 'D70H/A74W', 'D70K/A74N', 'D70K/A74H', 'D70S/A74D', 'D70S/A74H', 'D70S/A74K', 'D70S/A74Q', 'D70T/A74R', 'D70W/A74S', 'D70W/A74W', 'D70W/A74T', 'D70W/A74Y', 'D70Y/A74T']
+0
+0
+0
+0
+D72R_R76N
+D72R_R76W
+D72N_R76Y
+Residue origin clash: 
+184
+Atom clash (A1): 
+O
+Atom clash (A2): 
+ND2
+Distance: 
+1.48055544267
+D72N_R76T
+D72N_R76E
+5
+['D72R/R76N', 'D72R/R76W', 'D72N/R76Y', 'D72N/R76T', 'D72N/R76E']
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

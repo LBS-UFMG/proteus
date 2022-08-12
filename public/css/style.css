@@ -1,0 +1,27 @@
+/* Estilo CSS criado por Diego */
+
+header { height: 80px; margin:0;}
+header img { max-height: 100%; }
+header nav { background-color: #23313f; }
+section { padding:60px 0; }
+footer { background-color: #111; min-height: 50px; color:#e4e4e4; padding:30px 30px; }
+
+#subNav { height:30px; background-color:#18bc9c; }
+#pos_footer { background-color:#000; text-align: center; color:#ccc; padding:10px; font-size: 10px; }
+#menu { text-align: right; margin-top: 0px; }
+#menu a { color:#fff; font-weight: bold; text-decoration: none; }
+#menu li { padding:15px; }
+#menu li:hover { background-color:#18bc9c; }
+
+/*#content { margin-top:70px; }*/
+#hero { background-image: url('../img/background.jpg'); min-height: 600px; color:#111; }
+#hero h1 { font-size: 48px; }
+#hero h3 { font-weight: 400 !important; line-height: 130%; padding:20px 0; }
+#overlay_hero { /*background-image: url('../img/overlay.png'); */width: 100%; min-height: 600px; padding-top:130px;  }
+
+
+.navbar { height: 80px; }
+.navbar-nav > li > a { text-shadow: 0 1px 0 rgba(0, 0, 0, .25) }
+.navbar-nav > li > a:hover { background-color:#18bc9c;  }
+.navbar-nav > li > a:focus { background-color:#23313f;  }
+.btn-primary { background-color:#23313f; background-image:url(); border-color:#23313f; }

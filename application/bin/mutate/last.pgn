@@ -1,0 +1,4 @@
+mol new 1bga-mut.psf
+mol addfile 1PPF-relaxstep1.coor
+set all [atomselect top all]
+$all writepdb 1PPF-relaxstep1.pdb
